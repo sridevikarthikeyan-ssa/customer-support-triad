@@ -1,0 +1,550 @@
+[
+    {
+        "conversation_number": 1,
+        "tweets": [
+            {
+                "tweet_id": 8,
+                "author_id": "115712",
+                "inbound": true,
+                "created_at": "Tue Oct 31 21:45:10 +0000 2017",
+                "text": "@sprintcare is the worst customer service"
+            },
+            {
+                "tweet_id": 6,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 21:46:24 +0000 2017",
+                "text": "@115712 Can you please send us a private message, so that I can gain further details about your account?"
+            },
+            {
+                "tweet_id": 5,
+                "author_id": "115712",
+                "inbound": true,
+                "created_at": "Tue Oct 31 21:49:35 +0000 2017",
+                "text": "@sprintcare I did."
+            },
+            {
+                "tweet_id": 4,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 21:54:49 +0000 2017",
+                "text": "@115712 Please send us a Private Message so that we can further assist you. Just click \u2018Message\u2019 at the top of your profile."
+            },
+            {
+                "tweet_id": 3,
+                "author_id": "115712",
+                "inbound": true,
+                "created_at": "Tue Oct 31 22:08:27 +0000 2017",
+                "text": "@sprintcare I have sent several private messages and no one is responding as usual"
+            },
+            {
+                "tweet_id": 1,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 22:10:47 +0000 2017",
+                "text": "@115712 I understand. I would like to assist you. We would need to get you into a private secured link to further assist."
+            },
+            {
+                "tweet_id": 2,
+                "author_id": "115712",
+                "inbound": true,
+                "created_at": "Tue Oct 31 22:11:45 +0000 2017",
+                "text": "@sprintcare and how do you propose we do that"
+            }
+        ]
+    },
+    {
+        "conversation_number": 2,
+        "tweets": [
+            {
+                "tweet_id": 1293,
+                "author_id": "115712",
+                "inbound": true,
+                "created_at": "Tue Oct 31 22:24:51 +0000 2017",
+                "text": "@115714 @sprintcare how can I get in touch with someone that matters at Spring Corporate"
+            },
+            {
+                "tweet_id": 1291,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 22:26:44 +0000 2017",
+                "text": "@115712 Just click \u2018Message\u2019 at the top of your profile. We're always here and eager to assist."
+            },
+            {
+                "tweet_id": 1292,
+                "author_id": "115712",
+                "inbound": true,
+                "created_at": "Tue Oct 31 22:30:09 +0000 2017",
+                "text": "@sprintcare I've sent several private messages!!! and no one responds!"
+            },
+            {
+                "tweet_id": 1294,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 22:34:30 +0000 2017",
+                "text": "@115712 Do you have a good contact number where you can be reached?"
+            },
+            {
+                "tweet_id": 1295,
+                "author_id": "115712",
+                "inbound": true,
+                "created_at": "Tue Oct 31 22:34:55 +0000 2017",
+                "text": "@sprintcare I sent it twice now to apparently noone!"
+            }
+        ]
+    },
+    {
+        "conversation_number": 3,
+        "tweets": [
+            {
+                "tweet_id": 3178,
+                "author_id": "116445",
+                "inbound": true,
+                "created_at": "Tue Oct 31 22:55:37 +0000 2017",
+                "text": "@sprintcare mine and my brothers data is barely working, we have full signal but nothing is loading &amp; when it does load its very slow, help!"
+            },
+            {
+                "tweet_id": 3176,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 22:58:30 +0000 2017",
+                "text": "@116445 You\u2019ve reached the right place, please shoot us a DM, in order for us to further assist you. -AA"
+            },
+            {
+                "tweet_id": 3177,
+                "author_id": "116445",
+                "inbound": true,
+                "created_at": "Tue Oct 31 23:09:03 +0000 2017",
+                "text": "@sprintcare Just sent a DM"
+            }
+        ]
+    },
+    {
+        "conversation_number": 4,
+        "tweets": [
+            {
+                "tweet_id": 5523,
+                "author_id": "117001",
+                "inbound": true,
+                "created_at": "Tue Oct 31 23:12:51 +0000 2017",
+                "text": "@sprintcare @115714 thinking about upgrading my wife\u2019s iPhone 6.  What is your best offer?"
+            },
+            {
+                "tweet_id": 5522,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 23:16:16 +0000 2017",
+                "text": "@117001 Hey! We would need to see what offers are available to you. Send us a DM so we can further assist you. -CD"
+            }
+        ]
+    },
+    {
+        "conversation_number": 5,
+        "tweets": [
+            {
+                "tweet_id": 7743,
+                "author_id": "117302",
+                "inbound": true,
+                "created_at": "Tue Oct 31 22:53:04 +0000 2017",
+                "text": "@115714  @sprintcare &amp; she hung up the phone on me. I want my money back. Or else the whole world gonna know"
+            },
+            {
+                "tweet_id": 7742,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 23:36:56 +0000 2017",
+                "text": "@117302 Hi there! Can you tell us the reason for the credit? Can you also join us in a DM so we can assist you? -KW"
+            }
+        ]
+    },
+    {
+        "conversation_number": 6,
+        "tweets": [
+            {
+                "tweet_id": 7745,
+                "author_id": "117303",
+                "inbound": true,
+                "created_at": "Tue Oct 31 22:43:39 +0000 2017",
+                "text": "@sprintcare is there an outage in the Minneapolis/St. Paul Minnesota area?"
+            },
+            {
+                "tweet_id": 7744,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 23:34:08 +0000 2017",
+                "text": "@117303 Thank you for reaching out to us. Please send us a Direct Message, so that we can further assist you. -C.H"
+            }
+        ]
+    },
+    {
+        "conversation_number": 7,
+        "tweets": [
+            {
+                "tweet_id": 8867,
+                "author_id": "117592",
+                "inbound": true,
+                "created_at": "Tue Oct 31 23:28:34 +0000 2017",
+                "text": "@sprintcare @115714 the sad part is i\u2019m at my own house. and everyone else that i live with, has service. https://t.co/OHhmkBfr0B"
+            },
+            {
+                "tweet_id": 8866,
+                "author_id": "117592",
+                "inbound": true,
+                "created_at": "Tue Oct 31 23:30:23 +0000 2017",
+                "text": "@sprintcare @115714 never mind i can\u2019t even send txts. https://t.co/iWFDZrLDzF"
+            },
+            {
+                "tweet_id": 8864,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 23:52:12 +0000 2017",
+                "text": "@117592 We will like to take a look into this for you. Shoot us a DM to assist. -JA"
+            },
+            {
+                "tweet_id": 8865,
+                "author_id": "117592",
+                "inbound": true,
+                "created_at": "Tue Oct 31 23:52:48 +0000 2017",
+                "text": "@sprintcare well i just tried calling you guys but it automatically fails. i had this problem an hour ago and it\u2019s back. just messaged you."
+            }
+        ]
+    },
+    {
+        "conversation_number": 8,
+        "tweets": [
+            {
+                "tweet_id": 9557,
+                "author_id": "117733",
+                "inbound": true,
+                "created_at": "Tue Oct 31 01:59:15 +0000 2017",
+                "text": "@67723 Could you confirm @115714 falls within your office's jurisdiction?  I have been defrauded, @sprintcare refuses to mediate."
+            },
+            {
+                "tweet_id": 9555,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 02:23:54 +0000 2017",
+                "text": "@117733 Hello Michael! We will send you a DM shortly."
+            },
+            {
+                "tweet_id": 9554,
+                "author_id": "117733",
+                "inbound": true,
+                "created_at": "Tue Oct 31 21:06:53 +0000 2017",
+                "text": "@sprintcare @67723"
+            },
+            {
+                "tweet_id": 9553,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Oct 31 21:12:16 +0000 2017",
+                "text": "@117733 We regret to hear of your recent experience and we want to help. We will reach out to you momentarily to address your account concerns."
+            },
+            {
+                "tweet_id": 9552,
+                "author_id": "117733",
+                "inbound": true,
+                "created_at": "Tue Oct 31 23:46:19 +0000 2017",
+                "text": "@sprintcare Still nothing 2 hours later, our definitions of \"momentarily\" are not aligned.  Ashley @ 312.890.7112 - please contact. FYI@Koster4Missouri"
+            },
+            {
+                "tweet_id": 9548,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 00:01:28 +0000 2017",
+                "text": "@117733 We apologize for the delay. Your assigned analyst will be contacting you shortly."
+            },
+            {
+                "tweet_id": 9549,
+                "author_id": "117733",
+                "inbound": true,
+                "created_at": "Wed Nov 01 05:48:02 +0000 2017",
+                "text": "@sprintcare Again, contact is Ashley Wisniewski - 312.890.7112.  She IS an account holder."
+            }
+        ]
+    },
+    {
+        "conversation_number": 9,
+        "tweets": [
+            {
+                "tweet_id": 10870,
+                "author_id": "118025",
+                "inbound": true,
+                "created_at": "Wed Nov 01 00:26:17 +0000 2017",
+                "text": "@sprintcare is there any news on when the WiFi calling Plus will be available for the Note8?"
+            },
+            {
+                "tweet_id": 10869,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 00:43:18 +0000 2017",
+                "text": "@118025 Currently, the Note 8 does have Wi-Fi Calling. Send us a DM so we can provide you with the steps to activate it. -KW"
+            }
+        ]
+    },
+    {
+        "conversation_number": 10,
+        "tweets": [
+            {
+                "tweet_id": 11327,
+                "author_id": "118160",
+                "inbound": true,
+                "created_at": "Wed Nov 01 00:49:44 +0000 2017",
+                "text": "@sprintcare WTF THEY JUST HUNG UP ON ME AGAIN!!!!"
+            },
+            {
+                "tweet_id": 11326,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 00:52:07 +0000 2017",
+                "text": "@118160 We want to help you, in order for us to do so, you'll need to send us a Direct Message so we can better assist. -AG"
+            }
+        ]
+    },
+    {
+        "conversation_number": 11,
+        "tweets": [
+            {
+                "tweet_id": 12798,
+                "author_id": "118588",
+                "inbound": true,
+                "created_at": "Wed Nov 01 01:21:58 +0000 2017",
+                "text": "@sprintcare I had my iPhone replaced by Apple because it was defective. Now I can\u2019t receive SMS messages from Verizon numbers. No one has been able to help me out. Hoping you can! I have reset my network settings. I can send SMS and receive MMS from Verizon numbers."
+            },
+            {
+                "tweet_id": 12795,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 01:39:29 +0000 2017",
+                "text": "@118588 Hey Laura! Don't worry, we're here for you. How long have you had this issue? -CO"
+            },
+            {
+                "tweet_id": 12796,
+                "author_id": "118588",
+                "inbound": true,
+                "created_at": "Wed Nov 01 01:41:24 +0000 2017",
+                "text": "@sprintcare I had the phone replaced last Tuesday. So, a week."
+            }
+        ]
+    },
+    {
+        "conversation_number": 12,
+        "tweets": [
+            {
+                "tweet_id": 13435,
+                "author_id": "118160",
+                "inbound": true,
+                "created_at": "Wed Nov 01 01:40:47 +0000 2017",
+                "text": "@sprintcare &amp; @115714 ARE COMPLETE LIERS! They force you to keep the service and won\u2019t disconnect! #BlackTwitter #America #smartphones"
+            },
+            {
+                "tweet_id": 13432,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 01:45:32 +0000 2017",
+                "text": "@118160 @115714 Thank you for taking my call. I do hope that the transfer to the other department was successful. -AG"
+            },
+            {
+                "tweet_id": 13433,
+                "author_id": "118160",
+                "inbound": true,
+                "created_at": "Wed Nov 01 01:51:13 +0000 2017",
+                "text": "@sprintcare @115714 Don\u2019t lie for Twitter"
+            }
+        ]
+    },
+    {
+        "conversation_number": 13,
+        "tweets": [
+            {
+                "tweet_id": 16009,
+                "author_id": "119509",
+                "inbound": true,
+                "created_at": "Wed Nov 01 03:17:47 +0000 2017",
+                "text": "@sprintcare I HAVE A BIG ISSUE WITH YA'LL HELLO"
+            },
+            {
+                "tweet_id": 16008,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 03:25:31 +0000 2017",
+                "text": "@119509 Hey there! What seems to be the issue today? -MM"
+            }
+        ]
+    },
+    {
+        "conversation_number": 14,
+        "tweets": [
+            {
+                "tweet_id": 17602,
+                "author_id": "119894",
+                "inbound": true,
+                "created_at": "Wed Nov 01 04:11:59 +0000 2017",
+                "text": "@sprintcare How do I contact a live customer service rep? Calling funnels me into an endless phone menu"
+            },
+            {
+                "tweet_id": 17601,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 04:36:47 +0000 2017",
+                "text": "@119894 We are here to help! Please send us a Direct Message, so that we can further assist you. - LV. https://t.co/rMApsV8PQY"
+            }
+        ]
+    },
+    {
+        "conversation_number": 15,
+        "tweets": [
+            {
+                "tweet_id": 17804,
+                "author_id": "119941",
+                "inbound": true,
+                "created_at": "Wed Nov 01 04:52:12 +0000 2017",
+                "text": "@sprintcare why are my words showing symbols instead of the words ??? Tf"
+            },
+            {
+                "tweet_id": 17802,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 04:56:50 +0000 2017",
+                "text": "@119941 Hi there! We saw your tweet and would like to assist you. Please send us a DM and follow us to further assist you. -GM."
+            },
+            {
+                "tweet_id": 17803,
+                "author_id": "119941",
+                "inbound": true,
+                "created_at": "Wed Nov 01 04:58:13 +0000 2017",
+                "text": "@sprintcare Check your DMs.. thanks"
+            }
+        ]
+    },
+    {
+        "conversation_number": 16,
+        "tweets": [
+            {
+                "tweet_id": 20857,
+                "author_id": "120573",
+                "inbound": true,
+                "created_at": "Wed Nov 01 07:19:49 +0000 2017",
+                "text": "@sprintcare I\u2019m not even a customer yet and I\u2019ve gotten the run around. 7250 S Cicero Ave store is a joke. Fire everyone"
+            },
+            {
+                "tweet_id": 20854,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 07:23:18 +0000 2017",
+                "text": "@120573 We do apologize for the experience in which you had at our store. What seems to be the issue? -MM"
+            },
+            {
+                "tweet_id": 20855,
+                "author_id": "120573",
+                "inbound": true,
+                "created_at": "Wed Nov 01 07:37:15 +0000 2017",
+                "text": "@sprintcare Also, that store is playing load music that makes it hard to hear. It\u2019s a store not a dance club."
+            },
+            {
+                "tweet_id": 20858,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 07:44:36 +0000 2017",
+                "text": "@120573 To activate your device, you can either visit the link provided, https://t.co/cLSUsitfDr or call 866-782-8777 for further assistance. -MM"
+            }
+        ]
+    },
+    {
+        "conversation_number": 17,
+        "tweets": [
+            {
+                "tweet_id": 21180,
+                "author_id": "120645",
+                "inbound": true,
+                "created_at": "Wed Nov 01 07:26:53 +0000 2017",
+                "text": "@sprintcare why is all my text from earlier today just coming in? Used to work for Sprint &amp; could never understand it?"
+            },
+            {
+                "tweet_id": 21179,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 07:36:35 +0000 2017",
+                "text": "@120645 Hi there! We saw your tweet and would like to assist you. Please send us a DM and follow to further assist. -GM."
+            }
+        ]
+    },
+    {
+        "conversation_number": 18,
+        "tweets": [
+            {
+                "tweet_id": 25118,
+                "author_id": "121422",
+                "inbound": true,
+                "created_at": "Wed Nov 01 09:41:07 +0000 2017",
+                "text": "I need somebody from @sprintcare to answer a question I have ASAP"
+            },
+            {
+                "tweet_id": 25116,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Wed Nov 01 09:44:17 +0000 2017",
+                "text": "@121422 Hey there! Questions? You\u2019ve come to the right place. Please let us know how we can be of assistance today. - RC"
+            },
+            {
+                "tweet_id": 25117,
+                "author_id": "121422",
+                "inbound": true,
+                "created_at": "Wed Nov 01 18:45:12 +0000 2017",
+                "text": "@sprintcare Ok can y\u2019all dm me or something"
+            }
+        ]
+    },
+    {
+        "conversation_number": 19,
+        "tweets": [
+            {
+                "tweet_id": 25603,
+                "author_id": "121553",
+                "inbound": true,
+                "created_at": "Sun Nov 05 17:55:25 +0000 2017",
+                "text": "@sprintcare Just had the worst support experience ever at a Sprint store. Zero interest in helping me and was completely rude."
+            },
+            {
+                "tweet_id": 25601,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Sun Nov 05 18:03:19 +0000 2017",
+                "text": "@121553 we hate to hear this and apologize for the inconvenience. But is there something I can help you with today."
+            },
+            {
+                "tweet_id": 25602,
+                "author_id": "121553",
+                "inbound": true,
+                "created_at": "Sun Nov 05 18:11:34 +0000 2017",
+                "text": "@sprintcare I damaged a phone and need a replacement, the staff member was zero help and was completely rude in helping. I am very upset about this, I have been a sprint customer for 16 years. Is there a way to make an official complaint?"
+            },
+            {
+                "tweet_id": 25604,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Sun Nov 05 18:15:25 +0000 2017",
+                "text": "@121553 will address it. Also I'm going to direct message you some information about getting your phone replaced."
+            }
+        ]
+    },
+    {
+        "conversation_number": 20,
+        "tweets": [
+            {
+                "tweet_id": 26539,
+                "author_id": "121794",
+                "inbound": true,
+                "created_at": "Tue Nov 07 17:17:24 +0000 2017",
+                "text": "Hey @sprintcare bouncing between 1 bar &amp; no service for 2 days. 94th Terrace &amp; Nall Overland Park, KS 66207.  And no, it\u2019s not my phone."
+            },
+            {
+                "tweet_id": 26538,
+                "author_id": "sprintcare",
+                "inbound": false,
+                "created_at": "Tue Nov 07 17:24:10 +0000 2017",
+                "text": "@121794 We apologize for the issues you have experienced. DM your phone number so that we may research your concerns and reach out."
+            }
+        ]
+    }
+]

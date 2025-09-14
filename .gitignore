@@ -1,0 +1,44 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# OS/Editor files
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Docker artifacts
+*.log
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Test and coverage output
+htmlcov/
+.coverage
+.cache/
+*.cover
+*.py,cover
+.tox/
+nosetests.xml
+coverage.xml
+*.lcov
+*.egg-info/
+dist/
+build/
+
+# Reports and generated docs
+!docs/reports/
+
+# Environment files (keep tracked)
+!.env
+!config/.env.example
