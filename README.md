@@ -1,3 +1,34 @@
+## Batch Classification Client: `api_client_production.py`
+
+### What is it?
+`api_client_production.py` is a batch client script for sending a large set of production-grade customer support conversations (e.g., Delta Airlines, Sprintcare) to the running API for classification. It demonstrates end-to-end, multi-turn classification and writes the results to a timestamped file in `/data`.
+
+### How it works
+- Loads one local hardcoded example and the rest from a large JSON file (e.g., `Delta_Airline_20250916_150358.json`).
+- Sends each conversation to the `/classify` API endpoint.
+- Collects all successful responses.
+- Writes the classified results as a valid JSON array to `/data/classified_results_<UTC>.json`.
+
+### Prerequisites
+- The API server must be running locally at `http://localhost:8000` (see setup above).
+- The relevant data file (e.g., `Delta_Airline_20250916_150358.json`) must be present in the project root.
+- Python 3.8+ and the dependencies in `requirements.txt` must be installed.
+
+### Usage
+1. Ensure the API server is running:
+  ```bash
+  uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+  ```
+2. Run the batch client:
+  ```bash
+  python api_client_production.py
+  ```
+3. After completion, find the classified results in the `/data` directory as `classified_results_<UTC>.json`.
+
+### Notes
+- Only successful API responses are saved.
+- The script automatically avoids duplicate classification of the hardcoded example.
+- Useful for full-scale E2E testing, regression, and production validation.
 
 # Customer Support Query Classification API
 
