@@ -1,3 +1,5 @@
+# Ignore data directory for classified results and other data files
+data/
 # Python cache and compiled files
 __pycache__/
 *.pyc
