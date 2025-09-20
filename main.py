@@ -12,13 +12,32 @@ import uvicorn
 
 app = FastAPI()
 
+
+from typing import List, Optional, Union
+from pydantic import model_validator
+
 class Message(BaseModel):
     sender: str
     text: str
 
+class Tweet(BaseModel):
+    tweet_id: Union[int, str]
+    author_id: str
+    role: str
+    inbound: bool
+    created_at: str
+    text: str
+
 class ConversationRequest(BaseModel):
     conversation_number: str
-    messages: list[Message]
+    messages: Optional[List[Message]] = None
+    tweets: Optional[List[Tweet]] = None
+
+    @model_validator(mode="after")
+    def at_least_one(self):
+        if not self.messages and not self.tweets:
+            raise ValueError('Either messages or tweets must be provided')
+        return self
 
 @app.post("/classify")
 async def classify(request: ConversationRequest, response: Response):
