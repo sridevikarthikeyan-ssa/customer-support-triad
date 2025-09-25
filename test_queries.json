@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "sample_doc_0",
+    "text": "I can't log into my account after the recent update.",
+    "metadata": {
+      "source": "email",
+      "timestamp": "2025-09-23 22:44:09.746901+00:00"
+    },
+    "processed": false,
+    "processing_attempts": 0
+  },
+  {
+    "_id": "sample_doc_1",
+    "text": "I want to return my recent purchase. It arrived damaged.",
+    "metadata": {
+      "source": "chat",
+      "timestamp": "2025-09-23 22:44:09.746901+00:00"
+    },
+    "processed": false,
+    "processing_attempts": 0
+  },
+  {
+    "_id": "sample_doc_2",
+    "text": "How do I change my shipping address for my subscription?",
+    "metadata": {
+      "source": "phone",
+      "timestamp": "2025-09-23 22:44:09.746901+00:00"
+    },
+    "processed": false,
+    "processing_attempts": 0
+  },
+  {
+    "_id": "sample_doc_3",
+    "text": "Your customer service is terrible. I've been waiting for a response for days!",
+    "metadata": {
+      "source": "social_media",
+      "timestamp": "2025-09-23 22:44:09.746901+00:00"
+    },
+    "processed": false,
+    "processing_attempts": 0
+  },
+  {
+    "_id": "sample_doc_4",
+    "text": "When will the new features you promised be available?",
+    "metadata": {
+      "source": "app_feedback",
+      "timestamp": "2025-09-23 22:44:09.746901+00:00"
+    },
+    "processed": false,
+    "processing_attempts": 0
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_222544_7b954283",
+    "created_at": "2025-09-25T22:25:44.610431+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa76",
+      "conversation_number": 50,
+      "tweets": [
+        {
+          "tweet_id": 8660,
+          "author_id": "117522",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 22:27:49 +0000 2017",
+          "text": "@Delta stuck on the tarmac for one hour in a hot plane flight DL2170 From SLC losing Thousands on a business deal in LA! Unexceptable!"
+        },
+        {
+          "tweet_id": 8659,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Tue Oct 31 23:57:25 +0000 2017",
+          "text": "@117522 Our teams are working to get you safely to LAX asap. My apologies for the delayed flight and the conditions. *HJH"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa77",
+      "conversation_number": 51,
+      "tweets": [
+        {
+          "tweet_id": 8667,
+          "author_id": "117523",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 21:34:28 +0000 2017",
+          "text": "Missing my entire Halloween with kids because @Delta can't find a flight attendant for my flight home. #bestlaidplans #anotherdisappointment"
+        },
+        {
+          "tweet_id": 8664,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Tue Oct 31 22:29:55 +0000 2017",
+          "text": "@117523 Hi, Eric. I understand &amp; my apologies for the delayed flight. Our teams are working to get you safely on your way asap.  *HJH"
+        },
+        {
+          "tweet_id": 8663,
+          "author_id": "117523",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 22:49:17 +0000 2017",
+          "text": "@Delta been a long afternoon in the airport. Sorry if I sound bitter"
+        },
+        {
+          "tweet_id": 8662,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Tue Oct 31 23:46:23 +0000 2017",
+          "text": "@117523 Certainly understand and my apologies for the issues. I will surely share this with our Management Team.  *HRO"
+        }
+      ]
+    }
+  ]
+}

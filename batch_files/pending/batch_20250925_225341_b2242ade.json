@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_225341_b2242ade",
+    "created_at": "2025-09-25T22:53:41.099210+00:00",
+    "document_count": 10,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa9a",
+      "conversation_number": 86,
+      "tweets": [
+        {
+          "tweet_id": 14397,
+          "author_id": "119075",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 02:36:31 +0000 2017",
+          "text": "@delta. Does Delta offer trip insurance and if so, what does it cover?  Thanks!"
+        },
+        {
+          "tweet_id": 14396,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 02:40:25 +0000 2017",
+          "text": "@119075 Thank you for asking. Check this link https://t.co/4RLWk2SmAX *TDL"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa9c",
+      "conversation_number": 88,
+      "tweets": [
+        {
+          "tweet_id": 14404,
+          "author_id": "119077",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 02:29:01 +0000 2017",
+          "text": "thanks so much Dolton @Delta, means so much!!!!! #extremelifesaver"
+        },
+        {
+          "tweet_id": 14403,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 02:29:43 +0000 2017",
+          "text": "@119077 You're very welcome, Hal! *ABN"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfaa3",
+      "conversation_number": 95,
+      "tweets": [
+        {
+          "tweet_id": 15735,
+          "author_id": "119465",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 03:23:58 +0000 2017",
+          "text": "I seriously love flying @delta! Couldn\u2019t get a pre-assigned seat so I called an explained my flight anxiety and they upgraded me for free!"
+        },
+        {
+          "tweet_id": 15734,
+          "author_id": "119465",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 03:25:12 +0000 2017",
+          "text": "@Delta Its so nice to have a company that cares... now I get to sit next to my husband and not have three hours of panic attacks on the plane"
+        },
+        {
+          "tweet_id": 15733,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 03:26:36 +0000 2017",
+          "text": "@119465 We can definitely understand how you feel.  *ALA"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfaa7",
+      "conversation_number": 99,
+      "tweets": [
+        {
+          "tweet_id": 16185,
+          "author_id": "119556",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 03:27:49 +0000 2017",
+          "text": "#1 most terrifying turbulance experience of my life, hands down. Someone needs to buy these pilots a box of cigars for their flying @Delta"
+        },
+        {
+          "tweet_id": 16183,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 03:32:25 +0000 2017",
+          "text": "@119556 Oh no, Jacob! Are you okay?  *HDG"
+        },
+        {
+          "tweet_id": 16184,
+          "author_id": "119556",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 22:50:10 +0000 2017",
+          "text": "@Delta Doing fine! Pilots did a great job. Scary ride but I'd definitely take that flight crew again in a heartbeat."
+        },
+        {
+          "tweet_id": 16186,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 23:03:22 +0000 2017",
+          "text": "@119556 Sorry about the bumpy ride but I'm happy to hear you are doing well and our crew was great through it all! \ud83d\ude0a *HDG"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfab0",
+      "conversation_number": 108,
+      "tweets": [
+        {
+          "tweet_id": 18453,
+          "author_id": "120103",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 05:32:17 +0000 2017",
+          "text": "@DELTA Can I check a bag that weighs 72 lbs? I'm fine with any fees, just want to check on the process, if any. Thx"
+        },
+        {
+          "tweet_id": 18452,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 05:34:41 +0000 2017",
+          "text": "@120103 Are you traveling within the US?  *HDG"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfab9",
+      "conversation_number": 117,
+      "tweets": [
+        {
+          "tweet_id": 24603,
+          "author_id": "121305",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 09:13:55 +0000 2017",
+          "text": "@Delta Just to make sure, this price is for all three flights? Of just 1 of them? https://t.co/NNABN16oxC"
+        },
+        {
+          "tweet_id": 24602,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 09:14:46 +0000 2017",
+          "text": "@121305 Hi. That is the total for all three segments at the time you sent this screen shot. *ALY"
+        },
+        {
+          "tweet_id": 24601,
+          "author_id": "121305",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 09:14:58 +0000 2017",
+          "text": "@Delta Thank you!"
+        },
+        {
+          "tweet_id": 24600,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 09:15:05 +0000 2017",
+          "text": "@121305 You are welcome.  *HDG"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfabb",
+      "conversation_number": 119,
+      "tweets": [
+        {
+          "tweet_id": 27949,
+          "author_id": "122121",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 10:36:27 +0000 2017",
+          "text": "I appreciate how efficient terminal 4 is @122122. Thank you @Delta !"
+        },
+        {
+          "tweet_id": 27948,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 10:42:12 +0000 2017",
+          "text": "@122121 Have a wonderful day! *AMR"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfac0",
+      "conversation_number": 124,
+      "tweets": [
+        {
+          "tweet_id": 28527,
+          "author_id": "122244",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 10:46:36 +0000 2017",
+          "text": "I need assistance in getting on standby for later flight. Major delays in Paris and will miss connection in ATL. @Delta"
+        },
+        {
+          "tweet_id": 28526,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 10:47:18 +0000 2017",
+          "text": "@122244 Hi Donald. Please DM your ticket number. I will take a look.  *AMR"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfac3",
+      "conversation_number": 127,
+      "tweets": [
+        {
+          "tweet_id": 29590,
+          "author_id": "122499",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 11:24:12 +0000 2017",
+          "text": "I'm at @Delta Sky Club in Minneapolis, MN https://t.co/JCujNF3f39"
+        },
+        {
+          "tweet_id": 29589,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 11:25:36 +0000 2017",
+          "text": "@122499 Keep climbing Eric! *ALS"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfac8",
+      "conversation_number": 132,
+      "tweets": [
+        {
+          "tweet_id": 30102,
+          "author_id": "119076",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 11:23:28 +0000 2017",
+          "text": "Which airlines allow an equal status transfer? I honestly can't deal with @Delta anymore."
+        },
+        {
+          "tweet_id": 30101,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 11:32:37 +0000 2017",
+          "text": "@119076 135pm flight is quite full. I'm not able Same Day Confirm for this time. *AMR"
+        },
+        {
+          "tweet_id": 30100,
+          "author_id": "119076",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 11:36:05 +0000 2017",
+          "text": "@Delta I honestly don't know what's the point of having status with you all."
+        },
+        {
+          "tweet_id": 30099,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 11:38:20 +0000 2017",
+          "text": "@119076 I'm sorry. *AMR"
+        }
+      ]
+    }
+  ]
+}

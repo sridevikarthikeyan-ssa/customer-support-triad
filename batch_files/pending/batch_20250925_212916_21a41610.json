@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_212916_21a41610",
+    "created_at": "2025-09-25T21:29:16.801410+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa5c",
+      "conversation_number": 24,
+      "tweets": [
+        {
+          "tweet_id": 3238,
+          "author_id": "116461",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:54:21 +0000 2017",
+          "text": "@Delta I was disappointed yesterday in flight 2468 when WIFI was offered but it did not work. I couldn\u2019t get work I planned on doing done."
+        },
+        {
+          "tweet_id": 3237,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:10:59 +0000 2017",
+          "text": "@116461 Cooper, I'm sorry about the Wi-Fi! Please, be sure to report the matter to our Wi-Fi partner Gogo at @116462 or 1.877.350.0038. They need to get details from you of any messages or details you got during your attempt. *AFM"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa5d",
+      "conversation_number": 25,
+      "tweets": [
+        {
+          "tweet_id": 3242,
+          "author_id": "116463",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 22:33:04 +0000 2017",
+          "text": "Oh @Delta you were very unhelpful :/ .: never had this problem in all my traveling."
+        },
+        {
+          "tweet_id": 3241,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sat Nov 25 23:14:17 +0000 2017",
+          "text": "@116463 We're sorry to hear you're disappointed. If we can be of any assistance, please don't hesitate to tweet us about it. We're here for you. *TAC"
+        },
+        {
+          "tweet_id": 3240,
+          "author_id": "116463",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:50:55 +0000 2017",
+          "text": "@Delta Thank you."
+        },
+        {
+          "tweet_id": 3239,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:09:08 +0000 2017",
+          "text": "@116463 On behalf of *TAC, you are very welcome. *AFM"
+        }
+      ]
+    }
+  ]
+}

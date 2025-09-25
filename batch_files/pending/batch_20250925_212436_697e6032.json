@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_212436_697e6032",
+    "created_at": "2025-09-25T21:24:36.025593+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa53",
+      "conversation_number": 15,
+      "tweets": [
+        {
+          "tweet_id": 2793,
+          "author_id": "116371",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 22:48:35 +0000 2017",
+          "text": "Dear @Delta, thank you for providing excellent service &amp; employees who truly care about the customer experience.  You stand out in the crowd"
+        },
+        {
+          "tweet_id": 2792,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Tue Oct 31 22:52:38 +0000 2017",
+          "text": "@116371 Wow, that's what we love to hear! We appreciate your loyalty and support. Thank you for choosing Delta. \ud83d\ude0a *HKC"
+        },
+        {
+          "tweet_id": 2791,
+          "author_id": "116371",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 22:53:47 +0000 2017",
+          "text": "@Delta Just giving credit where it's due.  Thank you"
+        },
+        {
+          "tweet_id": 2790,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Tue Oct 31 22:55:48 +0000 2017",
+          "text": "@116371 Will do, have a great week.\ud83d\ude0a *TBT"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa59",
+      "conversation_number": 21,
+      "tweets": [
+        {
+          "tweet_id": 3216,
+          "author_id": "116456",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:20:49 +0000 2017",
+          "text": "@Delta for my trip to CDG in Dec, what would it cost in miles to waitlist for Delta 1?  I\u2019m burned out on these long flights.  \ud83d\ude15"
+        },
+        {
+          "tweet_id": 3214,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:20:40 +0000 2017",
+          "text": "@116456 Kevin, I will be assisting you with the upgrade request. Please allow me just a minute to pull all of the information together for an accurate quote. *ACJ"
+        },
+        {
+          "tweet_id": 3215,
+          "author_id": "116456",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:36:45 +0000 2017",
+          "text": "@Delta Thanks. I\u2019m on an international flight so I\u2019ve got time.  \ud83d\ude42"
+        },
+        {
+          "tweet_id": 3217,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:38:33 +0000 2017",
+          "text": "@116456 Sure thing. So you would like to go ahead and be added to the upgrade waitlist? *ACJ"
+        },
+        {
+          "tweet_id": 3218,
+          "author_id": "116456",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:39:10 +0000 2017",
+          "text": "@Delta Thinking about it.  That\u2019s just 1 way right?"
+        },
+        {
+          "tweet_id": 3219,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:39:57 +0000 2017",
+          "text": "@116456 Correct. It will be a total of 130,000 for the round trip, if it becomes available. *ACJ"
+        },
+        {
+          "tweet_id": 3220,
+          "author_id": "116456",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:43:08 +0000 2017",
+          "text": "@Delta Ok.  Let me think about it.  How long do I have to decide?"
+        },
+        {
+          "tweet_id": 3221,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:45:17 +0000 2017",
+          "text": "@116456 Since the space is not currently available, you can decide and get back to us when you are ready. *ACJ"
+        },
+        {
+          "tweet_id": 3222,
+          "author_id": "116456",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:45:35 +0000 2017",
+          "text": "@Delta Ok thanks."
+        },
+        {
+          "tweet_id": 3223,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:48:57 +0000 2017",
+          "text": "@116456 Sure thing! Have a great flight. We truly appreciate your loyalty to our brand! *ACJ"
+        }
+      ]
+    }
+  ]
+}

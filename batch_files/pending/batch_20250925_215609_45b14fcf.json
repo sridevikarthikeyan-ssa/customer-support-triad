@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_215609_45b14fcf",
+    "created_at": "2025-09-25T21:56:09.130881+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa68",
+      "conversation_number": 36,
+      "tweets": [
+        {
+          "tweet_id": 3300,
+          "author_id": "116477",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 22:10:26 +0000 2017",
+          "text": "@Delta Hi! Trying to cancel award booking that I booked in less than 24 hours online and it says that I have to pay to cancel. could you help me with cancellation?"
+        },
+        {
+          "tweet_id": 3299,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sat Nov 25 22:49:08 +0000 2017",
+          "text": "@116477 May I have your confirmation number? *AFC https://t.co/6iDGBJAc2m"
+        },
+        {
+          "tweet_id": 3297,
+          "author_id": "116477",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 22:49:45 +0000 2017",
+          "text": "@Delta Yes, GEX8LD"
+        },
+        {
+          "tweet_id": 3296,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sat Nov 25 23:23:38 +0000 2017",
+          "text": "@116477 Please allow 24 to 72 hours, for the miles to be redeposited. The cash portion will be redeposited within 6  to 10 business days.  *AFC"
+        },
+        {
+          "tweet_id": 3295,
+          "author_id": "116477",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:25:56 +0000 2017",
+          "text": "@Delta Great, I also have a question regarding baggage allowance. Could I leave a DM?"
+        },
+        {
+          "tweet_id": 3294,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sat Nov 25 23:59:07 +0000 2017",
+          "text": "@116477 Sure, Jun. Please DM with your questions or concerns. *ACJ"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa6b",
+      "conversation_number": 39,
+      "tweets": [
+        {
+          "tweet_id": 3833,
+          "author_id": "116646",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 22:44:22 +0000 2017",
+          "text": "@Delta nice to know that you bend over your paying customers and don't offer any help with important changes. Absolute JOKE"
+        },
+        {
+          "tweet_id": 3832,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Tue Oct 31 23:05:15 +0000 2017",
+          "text": "@116646 ...anxiety, frustration, and inconvenience that we have caused.   *TJN 2/2"
+        }
+      ]
+    }
+  ]
+}

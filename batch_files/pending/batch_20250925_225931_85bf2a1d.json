@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_225931_85bf2a1d",
+    "created_at": "2025-09-25T22:59:31.065043+00:00",
+    "document_count": 10,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfaca",
+      "conversation_number": 134,
+      "tweets": [
+        {
+          "tweet_id": 30114,
+          "author_id": "122624",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 11:29:35 +0000 2017",
+          "text": "Just witnessed a @Delta agent deny a lady admission to her flight to Dulles"
+        },
+        {
+          "tweet_id": 30113,
+          "author_id": "122624",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 11:29:56 +0000 2017",
+          "text": "@Delta Pretty normal - she was late..."
+        },
+        {
+          "tweet_id": 30112,
+          "author_id": "122624",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 11:30:26 +0000 2017",
+          "text": "@Delta But as she was begging the agent to let her through, a white guy in a suit stormed through and said \"I have diamond status\"..."
+        },
+        {
+          "tweet_id": 30110,
+          "author_id": "122624",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 11:30:53 +0000 2017",
+          "text": "@Delta He was granted admission to the flight..."
+        },
+        {
+          "tweet_id": 30108,
+          "author_id": "122624",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 11:31:49 +0000 2017",
+          "text": "@Delta The business man will make it to his work because he has money..."
+        },
+        {
+          "tweet_id": 30107,
+          "author_id": "122624",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 11:32:26 +0000 2017",
+          "text": "@Delta Class warfare at its best folks."
+        },
+        {
+          "tweet_id": 30106,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 11:34:05 +0000 2017",
+          "text": "@122624 I will share you comments with our Airport Leadership. *AMR"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfacd",
+      "conversation_number": 137,
+      "tweets": [
+        {
+          "tweet_id": 30883,
+          "author_id": "122808",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 12:09:57 +0000 2017",
+          "text": "@Delta Flying on the first day of the month means a new crossword in Sky magazine. I\u2019m game. #keepclimbing https://t.co/j4AMaxUaGp"
+        },
+        {
+          "tweet_id": 30882,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 12:11:10 +0000 2017",
+          "text": "@122808 Thanks for flying with us today John. #keepclimbing *ALS"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfad0",
+      "conversation_number": 140,
+      "tweets": [
+        {
+          "tweet_id": 31580,
+          "author_id": "122967",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 12:23:27 +0000 2017",
+          "text": "Hello my name is Dike McGee, I have a question about bofa @Delta this has been my 5th time tweeting with no response. is my name bad?"
+        },
+        {
+          "tweet_id": 31578,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 12:28:36 +0000 2017",
+          "text": "@122966 Hello how can we help you? *TDH"
+        },
+        {
+          "tweet_id": 31579,
+          "author_id": "122967",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 12:30:00 +0000 2017",
+          "text": "@Delta Can you guys assist me with bofa?"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfad9",
+      "conversation_number": 149,
+      "tweets": [
+        {
+          "tweet_id": 33440,
+          "author_id": "123398",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 13:09:26 +0000 2017",
+          "text": "@Delta traveling with some co-workers on a flight and only some of us were upgraded, all w status. Sitting behind 5 empty comfort plus seats"
+        },
+        {
+          "tweet_id": 33439,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 13:10:37 +0000 2017",
+          "text": "@123398 Hi Zack, pls DM your confirm # and I'd be happy to take a look at this for you.  *TJW https://t.co/6iDGBJAc2m"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfadc",
+      "conversation_number": 152,
+      "tweets": [
+        {
+          "tweet_id": 34753,
+          "author_id": "123540",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 22 18:03:53 +0000 2017",
+          "text": "@delta Delta airline's service &amp; customer service has gone to hell the last year. They want loyalty but their actions say, screw the client. Now you write them &amp; they never respond! Have you had bad experiences?"
+        },
+        {
+          "tweet_id": 34752,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 22 18:57:09 +0000 2017",
+          "text": "@123540 Wilson, thank you much for Tweeting us. Please take a look at your DM. *AST"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfadd",
+      "conversation_number": 153,
+      "tweets": [
+        {
+          "tweet_id": 34763,
+          "author_id": "123543",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 13:15:51 +0000 2017",
+          "text": "@Delta Hi, would a backpack measuring 13.5\" x 17\" x 6\" be a carry-on, or would I have to check it? Cheers!"
+        },
+        {
+          "tweet_id": 34762,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 13:19:07 +0000 2017",
+          "text": "@123543 Hi Kayla, yes, you're permitted 1 carry on bag for free, up to 45 inches. A personal item is also included in the free allowance. *TJP"
+        },
+        {
+          "tweet_id": 34761,
+          "author_id": "123543",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 13:23:37 +0000 2017",
+          "text": "@Delta Thank you very much! Would a laptop bag (i.e. a bag holding only my laptop) also count as a personal item, or would that be a carry on?"
+        },
+        {
+          "tweet_id": 34760,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 13:25:01 +0000 2017",
+          "text": "@123543 Oh yes, a laptop size bag would be considered a personal item. *TJP"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfaf4",
+      "conversation_number": 176,
+      "tweets": [
+        {
+          "tweet_id": 43473,
+          "author_id": "125644",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 16:00:53 +0000 2017",
+          "text": "@Delta did a great job in taking an ignorant idiot off our flight today. Delayed - but better safe than sorry. Thank you for our safety."
+        },
+        {
+          "tweet_id": 43472,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 16:07:36 +0000 2017",
+          "text": "@125644 Apologies for delay Frank! We appreciate your patience.  *HKM"
+        },
+        {
+          "tweet_id": 43471,
+          "author_id": "125644",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 16:08:40 +0000 2017",
+          "text": "@Delta None needed. Very professional crew. Thank you!!!"
+        },
+        {
+          "tweet_id": 43470,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 16:12:27 +0000 2017",
+          "text": "@125644 We truly appreciate your feedback and my sincere apologies again for your inconvenience.  *HAN"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfaf5",
+      "conversation_number": 177,
+      "tweets": [
+        {
+          "tweet_id": 44476,
+          "author_id": "125865",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:27:16 +0000 2017",
+          "text": "@Delta  LGA-ATL Wed. morn; which terminal thanks Happy Holiday"
+        },
+        {
+          "tweet_id": 44475,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:28:50 +0000 2017",
+          "text": "@125865 Do you have a flight number or time? *TMB"
+        },
+        {
+          "tweet_id": 44473,
+          "author_id": "125865",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:44:14 +0000 2017",
+          "text": "@Delta Wed Flt 1903 we live 20 mins from LGA; what time should we get to airport; have TSA precheck"
+        },
+        {
+          "tweet_id": 44472,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:45:06 +0000 2017",
+          "text": "@125865 Thank you, please allow me a few moments to look into your request.  *TMB"
+        },
+        {
+          "tweet_id": 44471,
+          "author_id": "125865",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:54:54 +0000 2017",
+          "text": "@Delta thank you"
+        },
+        {
+          "tweet_id": 44470,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:57:13 +0000 2017",
+          "text": "@125865 You're welcome, take care.  *TMB"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfaf6",
+      "conversation_number": 178,
+      "tweets": [
+        {
+          "tweet_id": 44478,
+          "author_id": "125866",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:53:05 +0000 2017",
+          "text": "Upgraded both times for this trip on @Delta   Loyalty pays off."
+        },
+        {
+          "tweet_id": 44477,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:56:35 +0000 2017",
+          "text": "@125866 Enjoy, thank you for your continued loyalty to Delta! \ud83d\ude03 *TMB"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfafb",
+      "conversation_number": 183,
+      "tweets": [
+        {
+          "tweet_id": 44489,
+          "author_id": "125871",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:28:52 +0000 2017",
+          "text": "@Delta shoutout to Carlos O. working A6 @125872 tonite. Super friendly &amp; efficient on a crazy holiday weekend! Keep it up!"
+        },
+        {
+          "tweet_id": 44488,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:30:44 +0000 2017",
+          "text": "@125871 Thanks for recognizing Carlos. I'll make sure to send over your compliment. Every day our team is working to make flying with us better, thanks for choosing Delta!  *TMB"
+        }
+      ]
+    }
+  ]
+}

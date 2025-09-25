@@ -4,3 +4,10 @@ pydantic
 requests
 python-dotenv
 jsonschema
+aiohttp
+motor
+pytest-asyncio
+tenacity
+mongomock-motor
+pytest-timeout
+pytest-mock

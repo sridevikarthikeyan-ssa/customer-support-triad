@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_215207_6bc9b53c",
+    "created_at": "2025-09-25T21:52:07.208641+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa63",
+      "conversation_number": 31,
+      "tweets": [
+        {
+          "tweet_id": 3272,
+          "author_id": "116471",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 22:16:16 +0000 2017",
+          "text": ".@Delta was great to me in MBS, but NOT great in DTW. I hope they make this right for @116470 &amp; fix the attitudes w/ their DTW staff. DTW Gate agent was rude to me as well yesterday. https://t.co/rUf80TvLYp"
+        },
+        {
+          "tweet_id": 3269,
+          "author_id": "116470",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 22:18:29 +0000 2017",
+          "text": "@116471 @Delta Thx for the support @116471 - hopefully @delta will do the right thing for Jennifer &amp; I in this frustrating episode &amp; address DTW cust. service issues ...."
+        },
+        {
+          "tweet_id": 3268,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sat Nov 25 22:40:21 +0000 2017",
+          "text": "@116470 I can authorize 5,000 bonus Skymiles be deposited into each of your SkyMiles accounts as a gesture for the inconvenience. (2/2) *TAC"
+        },
+        {
+          "tweet_id": 3266,
+          "author_id": "116470",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:09:37 +0000 2017",
+          "text": "@Delta Hi @Delta, thanks so much for your timely &amp; sincere reply. This is part of the reason I remain a loyal #silvermedallion member. Your generous offer of 5K skymiles for both my wife &amp; I is accepted &amp; appreciated. Please reply or direct message me if you need contact details."
+        },
+        {
+          "tweet_id": 3264,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:03:41 +0000 2017",
+          "text": "@116470 Hello, John. Our system shows you were already compensated for flight 4459 today with $100.00 Delta travel vouchers for each of you. Unfortunately, I cannot double compensate for the same flight. I am sorry to disappoint.  *TAC"
+        },
+        {
+          "tweet_id": 3265,
+          "author_id": "116470",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 01:02:51 +0000 2017",
+          "text": "@Delta Hi @Delta, I heard back over the phone after our correspondence earlier. I am happy with the accommodation &amp; understand you cannot do both. Thank you and I appreciate your getting back to me."
+        },
+        {
+          "tweet_id": 3267,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 01:11:41 +0000 2017",
+          "text": "@116470 You're most welcome. We are here for you 24/7. Tweet us anytime! *TAC"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa64",
+      "conversation_number": 32,
+      "tweets": [
+        {
+          "tweet_id": 3275,
+          "author_id": "116473",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 16:46:14 +0000 2017",
+          "text": "Dear @Delta Its been a pretty good run lately and I appreciate you for that. But the service Ive received the last two days not acceptable."
+        },
+        {
+          "tweet_id": 3274,
+          "author_id": "116472",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:30:15 +0000 2017",
+          "text": "@116473 @Delta Despite your troubles getting here, welcome to MN!!"
+        },
+        {
+          "tweet_id": 3273,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:03:01 +0000 2017",
+          "text": "@116472 Mary, I am sorry to hear that. Thank you for taking the time and providing this feedback.  *AFM"
+        }
+      ]
+    }
+  ]
+}

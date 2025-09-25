@@ -1,0 +1,22 @@
+{
+  "last_processed_object_id": "job_20250925_231813",
+  "timestamp": "2025-09-25T23:21:50.064731+00:00",
+  "stats": {
+    "last_processed_id": "68ce563252b33355379dfb11",
+    "stats": {
+      "job_id": "job_20250925_231813",
+      "start_time": "2025-09-25 23:18:14.091420+00:00",
+      "end_time": "2025-09-25 23:21:50.062999+00:00",
+      "documents_processed": 5,
+      "successful": 5,
+      "failed": 0,
+      "retried": 0,
+      "batches_processed": 1,
+      "total_batches": 0,
+      "duration_seconds": 215.971579,
+      "processing_rate": 0.023151317306250516,
+      "estimated_completion": null
+    },
+    "timestamp": "2025-09-25T23:21:50.064731+00:00"
+  }
+}
