@@ -1,22 +1,22 @@
 {
-  "last_processed_object_id": "job_20250925_231813",
-  "timestamp": "2025-09-25T23:21:50.064731+00:00",
+  "last_processed_object_id": "job_20250925_232957",
+  "timestamp": "2025-09-26T03:39:21.142018+00:00",
   "stats": {
-    "last_processed_id": "68ce563252b33355379dfb11",
+    "last_processed_id": "68ce563252b33355379dfb7f",
     "stats": {
-      "job_id": "job_20250925_231813",
-      "start_time": "2025-09-25 23:18:14.091420+00:00",
-      "end_time": "2025-09-25 23:21:50.062999+00:00",
-      "documents_processed": 5,
-      "successful": 5,
+      "job_id": "job_20250925_232957",
+      "start_time": "2025-09-25 23:29:58.207054+00:00",
+      "end_time": "2025-09-26 03:39:21.142018+00:00",
+      "documents_processed": 100,
+      "successful": 100,
       "failed": 0,
-      "retried": 0,
+      "retried": 5,
       "batches_processed": 1,
       "total_batches": 0,
-      "duration_seconds": 215.971579,
-      "processing_rate": 0.023151317306250516,
+      "duration_seconds": 14962.934964,
+      "processing_rate": 0.0066831842791376,
       "estimated_completion": null
     },
-    "timestamp": "2025-09-25T23:21:50.064731+00:00"
+    "timestamp": "2025-09-26T03:39:21.142018+00:00"
   }
 }

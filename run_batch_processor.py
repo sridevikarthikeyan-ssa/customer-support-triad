@@ -20,16 +20,16 @@ os.environ["BATCH_PROCESSOR_FORCE_EXIT_AFTER_BATCH"] = "true"
 
 # Run the batch processor - now using the fixed original file
 # Setting --mode=batch to ensure it runs only once and exits
-# Process fewer documents with higher concurrency
+# Process 100 documents with concurrency of 5
 cmd = [
     sys.executable,
     "batch_processor.py",
-    "--batch-size", "5",     # Reduced to process 5 documents for faster testing
-    "--concurrent", "5",     # Keep concurrency at 5 (1:1 ratio)
+    "--batch-size", "100",   # Increased to process 100 documents
+    "--concurrent", "5",     # Keep concurrency at 5 for optimal performance
     "--mode", "batch",       # Ensures it runs only one iteration
-    "--checkpoint-interval", "5"   # Equal to our batch size for checkpointing
+    "--checkpoint-interval", "10"  # Checkpoint every 10 documents
 ]
 
 print(f"Running: {' '.join(cmd)}")
-print("This will process exactly one batch of 5 documents with 5 concurrent LLM calls and exit.")
+print("This will process exactly one batch of 100 documents with 5 concurrent LLM calls and exit.")
 subprocess.run(cmd)

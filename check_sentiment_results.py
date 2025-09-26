@@ -34,7 +34,7 @@ async def check_sentiment_results():
         print("Connected to MongoDB successfully")
         
         # Query the latest results in sentimental_analysis
-        limit = 10  # Increased to show more results
+        limit = 20  # Increased to show more results (can view the latest 20 out of 100)
         
         target_collection = mongo_client.db[mongo_client.target_collection_name]
         cursor = target_collection.find({}).sort("processed_at", -1).limit(limit)
