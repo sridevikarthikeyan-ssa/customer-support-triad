@@ -18,18 +18,18 @@ print(f"Using OLLAMA_ENDPOINT from .env: {os.environ.get('OLLAMA_ENDPOINT', 'Not
 # This will make the batch processor exit after processing one batch
 os.environ["BATCH_PROCESSOR_FORCE_EXIT_AFTER_BATCH"] = "true"
 
-# Run the batch processor - now using the fixed original file
-# Setting --mode=batch to ensure it runs only once and exits
-# Process 100 documents with concurrency of 5
-cmd = [
-    sys.executable,
-    "batch_processor.py",
-    "--batch-size", "100",   # Increased to process 100 documents
-    "--concurrent", "5",     # Keep concurrency at 5 for optimal performance
-    "--mode", "batch",       # Ensures it runs only one iteration
-    "--checkpoint-interval", "10"  # Checkpoint every 10 documents
-]
+# Get command line arguments, use sys.argv[1:] to pass through any arguments provided
+cmd = [sys.executable, "batch_processor.py"] + sys.argv[1:]
+
+# If no arguments provided, use defaults
+if len(sys.argv) == 1:
+    cmd.extend([
+        "--batch-size", "10",     # Default to 10 documents
+        "--concurrent", "5",      # Default concurrency of 5
+        "--mode", "batch",        # Default to batch mode
+        "--checkpoint-interval", "10"  # Default checkpoint interval
+    ])
 
 print(f"Running: {' '.join(cmd)}")
-print("This will process exactly one batch of 100 documents with 5 concurrent LLM calls and exit.")
+print("This will process exactly one batch with the specified parameters.")
 subprocess.run(cmd)

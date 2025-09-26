@@ -139,20 +139,27 @@ class MongoClient:
             from bson.objectid import ObjectId
             query_filter["_id"] = {"$gt": ObjectId(last_object_id)}
         
-        # Fetch documents
+        # Fetch documents with strict limit
         cursor = self.source_collection.find(query_filter).limit(batch_size)
         
         documents = []
         first_id = None
         last_id = None
         
+        # Enforce strict batch size limit
+        count = 0
+        
         async for doc in cursor:
+            if count >= batch_size:
+                break
+                
             if not first_id:
                 first_id = str(doc["_id"])
             last_id = str(doc["_id"])
             documents.append(doc)
+            count += 1
         
-        logger.info(f"Fetched {len(documents)} unprocessed documents")
+        logger.info(f"Fetched {len(documents)} unprocessed documents (batch size limit: {batch_size})")
         return documents, first_id, last_id
     
     @async_retry(max_retries=3, base_delay=1.0)

@@ -12,6 +12,7 @@ This module:
 import os
 import asyncio
 import json
+from prompt_builder import build_prompt  # Import the existing prompt builder
 from datetime import datetime, timezone
 from typing import List, Dict, Any, Optional, Tuple
 import time
@@ -209,27 +210,35 @@ class BatchProcessor:
             logger.error(f"Error fetching unprocessed queries: {str(e)}")
             return [], False
     
-    def _prepare_message(self, conversation: str) -> List[Dict[str, str]]:
+    def _prepare_message(self, conversation: str, doc_id: str = None) -> List[Dict[str, str]]:
         """
-        Prepare message for the LLM.
+        Prepare message for the LLM using the existing prompt builder.
         
         Args:
             conversation: The customer conversation to classify
+            doc_id: Optional document ID to use as conversation number
             
         Returns:
-            List[Dict]: The message for the LLM in the required format
+            List[Dict]: The messages list with system prompt and few-shot examples
         """
-        return [{
-            "role": "user",
-            "content": (
-                f"Please classify this customer conversation in JSON format with the following fields:\n"
-                f"- 'categorization': A brief phrase describing the main issue or request\n"
-                f"- 'intent': The customer's primary intention (e.g., Technical Support, Complaint, Inquiry)\n"
-                f"- 'topic': The subject matter area (e.g., Account/Billing, Technical, Product Info)\n"
-                f"- 'sentiment': The emotional tone (e.g., Positive, Negative, Neutral)\n\n"
-                f"Conversation: {conversation[:1000]}"
+        try:
+            # Use document ID as conversation number if available, otherwise generate UUID
+            conversation_number = str(doc_id) if doc_id else str(uuid.uuid4())
+            
+            prompt_result = build_prompt(
+                conversation_number=conversation_number,
+                aggregated_text=conversation
             )
-        }]
+            
+            if "error" in prompt_result:
+                logger.error(f"Error building prompt: {prompt_result['error']}")
+                return []
+            
+            return prompt_result["messages"]
+            
+        except Exception as e:
+            logger.error(f"Error preparing message: {str(e)}")
+            return []
     
     async def process_batch(self, documents: List[Dict[str, Any]]) -> Dict[str, Any]:
         """
@@ -335,16 +344,18 @@ class BatchProcessor:
                 if tweets:
                     for tweet in tweets:
                         if isinstance(tweet, dict) and "text" in tweet:
-                            conversation_text += tweet["text"] + " "
+                            # Format as Customer/Agent interaction
+                            sender = "Customer"  # Default to customer for tweets
+                            conversation_text += f"{sender}: {tweet['text']}\n"
                 
                 # If no text found in tweets, try messages field
                 if not conversation_text.strip():
                     messages = document.get("messages", [])
                     for message in messages:
-                        if isinstance(message, dict) and "content" in message:
-                            conversation_text += message["content"] + " "
-                        elif isinstance(message, dict) and "text" in message:
-                            conversation_text += message["text"] + " "
+                        if isinstance(message, dict):
+                            text = message.get("content") or message.get("text", "")
+                            sender = message.get("sender", "Customer").capitalize()  # Default to Customer if no sender
+                            conversation_text += f"{sender}: {text}\n"
                 
                 # If still no text, try direct text field
                 if not conversation_text.strip():
@@ -362,7 +373,16 @@ class BatchProcessor:
                 logger.info(f"Processing conversation: {conversation_text[:100]}...")
                 
                 # Call LLM for classification with retry logic
-                message = self._prepare_message(conversation_text)
+                message = self._prepare_message(
+                    conversation=conversation_text,
+                    doc_id=str(doc_id)
+                )
+                
+                # Validate we got a valid message list
+                if not message:
+                    logger.error(f"Failed to prepare message for document {doc_id}")
+                    await self._mark_as_processed(doc_id, {"error": "Failed to prepare message"})
+                    return result
                 
                 # Use retry logic for LLM calls
                 retry_count = 0
