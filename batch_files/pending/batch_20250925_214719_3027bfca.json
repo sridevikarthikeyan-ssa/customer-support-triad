@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_214719_3027bfca",
+    "created_at": "2025-09-25T21:47:19.767834+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa5c",
+      "conversation_number": 24,
+      "tweets": [
+        {
+          "tweet_id": 3238,
+          "author_id": "116461",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:54:21 +0000 2017",
+          "text": "@Delta I was disappointed yesterday in flight 2468 when WIFI was offered but it did not work. I couldn\u2019t get work I planned on doing done."
+        },
+        {
+          "tweet_id": 3237,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:10:59 +0000 2017",
+          "text": "@116461 Cooper, I'm sorry about the Wi-Fi! Please, be sure to report the matter to our Wi-Fi partner Gogo at @116462 or 1.877.350.0038. They need to get details from you of any messages or details you got during your attempt. *AFM"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa60",
+      "conversation_number": 28,
+      "tweets": [
+        {
+          "tweet_id": 3254,
+          "author_id": "116467",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:37:51 +0000 2017",
+          "text": ".@Delta free transcon economy meal, sesame chicken noodle salad version. Not bad at all for free. Only complaint is dressing is a bit heavy handed. Otherwise just the ticket. #paxex https://t.co/S2LmU0Kmpw"
+        },
+        {
+          "tweet_id": 3253,
+          "author_id": "116466",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:46:41 +0000 2017",
+          "text": "@116467 @Delta That looks really good!"
+        },
+        {
+          "tweet_id": 3252,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:06:15 +0000 2017",
+          "text": "@116466 Hello, there. Thank you for sharing.  *AFM"
+        }
+      ]
+    }
+  ]
+}

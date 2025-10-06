@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_223603_b89bf673",
+    "created_at": "2025-09-25T22:36:03.442128+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa7c",
+      "conversation_number": 56,
+      "tweets": [
+        {
+          "tweet_id": 9870,
+          "author_id": "117818",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 00:16:34 +0000 2017",
+          "text": "@delta. Do you think it will actually leave at 9:55?  The people at the gate are not sure"
+        },
+        {
+          "tweet_id": 9869,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 00:21:30 +0000 2017",
+          "text": "@117818 I think they both will.  *TBT"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa82",
+      "conversation_number": 62,
+      "tweets": [
+        {
+          "tweet_id": 11163,
+          "author_id": "118115",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 00:42:45 +0000 2017",
+          "text": "This is one reason why @delta rocks. https://t.co/ylOP6C3Gqe"
+        },
+        {
+          "tweet_id": 11162,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 00:44:36 +0000 2017",
+          "text": "@118115 Thanks, Aaron! You're the real rockstar! \ud83d\ude4c *TJN"
+        }
+      ]
+    }
+  ]
+}

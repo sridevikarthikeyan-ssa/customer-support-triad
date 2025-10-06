@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_222212_6b6279e6",
+    "created_at": "2025-09-25T22:22:12.464202+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa75",
+      "conversation_number": 49,
+      "tweets": [
+        {
+          "tweet_id": 7004,
+          "author_id": "117211",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 23:39:48 +0000 2017",
+          "text": ".@Delta can you look at the standby list for DL1445 for tomorrow? Suppose to be on it but don\u2019t think I\u2019m activated on it."
+        },
+        {
+          "tweet_id": 7001,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Tue Oct 31 23:42:40 +0000 2017",
+          "text": "@117211 ...on the upgrade list. \ud83d\ude03 *TJN 2/2"
+        },
+        {
+          "tweet_id": 7002,
+          "author_id": "117211",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 23:43:17 +0000 2017",
+          "text": "@Delta Should be the standby list, not upgrade?"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa76",
+      "conversation_number": 50,
+      "tweets": [
+        {
+          "tweet_id": 8660,
+          "author_id": "117522",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 22:27:49 +0000 2017",
+          "text": "@Delta stuck on the tarmac for one hour in a hot plane flight DL2170 From SLC losing Thousands on a business deal in LA! Unexceptable!"
+        },
+        {
+          "tweet_id": 8659,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Tue Oct 31 23:57:25 +0000 2017",
+          "text": "@117522 Our teams are working to get you safely to LAX asap. My apologies for the delayed flight and the conditions. *HJH"
+        }
+      ]
+    }
+  ]
+}

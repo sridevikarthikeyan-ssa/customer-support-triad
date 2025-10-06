@@ -1,0 +1,3303 @@
+[{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387ed"
+  },
+  "conversation_number": 4673,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 598588,
+      "author_id": "261640",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "19:57:31",
+      "text": "After missing that flight, I tried to contact @VirginAtlantic and @Delta by phone and by going to their lounges, but no dice. I had to wait for Jet Airways to finally rebook me. Now I’m getting to Bangalore past 5pm Dec 4 when my original arrival was 1am. 16+ hour delay."
+    },
+    {
+      "tweet_id": 598586,
+      "author_id": "VirginAtlantic",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "20:00:20",
+      "text": "@261640 @Delta I’m really sorry to hear that you had such a poor experience with us, this certainly is not typical of our normal level of service...\nPlease feel free to contact our Customer Relations on __email__ and they will be in touch with you shortly after. ^R"
+    },
+    {
+      "tweet_id": 598587,
+      "author_id": "261640",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "20:02:24",
+      "text": "@VirginAtlantic @Delta I definitely will once I board my flight to Delhi. I cannot afford any more mishaps."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387ee"
+  },
+  "conversation_number": 3778,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 477206,
+      "author_id": "228407",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "10:45:24",
+      "text": "I need my in-flight coffee @Delta, but I can't do black. Please add nondairy #vegan creamers. ☕️"
+    },
+    {
+      "tweet_id": 477205,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "11:28:40",
+      "text": "@228407 Hi, Gill. I'm sorry for the inconvenience. I'll be sure forward your concern over to our Leadership Team for review. *TJH"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387ef"
+  },
+  "conversation_number": 4017,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 507510,
+      "author_id": "236500",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "21:25:36",
+      "text": "So frustrating...30 hours later, and I still don’t have my luggage. #fail Super disappointed with @Delta and partner @23083. No Change of clothes. Sigh"
+    },
+    {
+      "tweet_id": 507509,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "21:45:15",
+      "text": "@236500 @23083 Nadia, if you haven't please complete the delayed baggage form on https://t.co/yQj0bzerMw. *ACJ"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387f0"
+  },
+  "conversation_number": 4551,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 582319,
+      "author_id": "257270",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "13:12:00",
+      "text": "@Delta Hope that you will talk to supervisors about passenger service during boarding on fl 3385 this morning. Two minutes before boarding, agents refused to tell passengers their seats. Caused a woman with kids huge stress. It was just #lazy #NoGoodExcuse"
+    },
+    {
+      "tweet_id": 582317,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "13:13:50",
+      "text": "@257270 Hey there Brian, I am sorry that this has happened on your flight this morning. I will forward this on to our leadership so that this can be addressed. *TBW"
+    },
+    {
+      "tweet_id": 582318,
+      "author_id": "257270",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "13:16:05",
+      "text": "@Delta Thanks. For the agents, this may seem routine. For a mother with kids.. standing around without knowing when to board is stressful and scary. Very easily avoidable. I was also unassigned.. and the agent insisted that my seat was displaying in the screen (it wasn’t)."
+    },
+    {
+      "tweet_id": 582320,
+      "author_id": "257270",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "13:25:33",
+      "text": "@Delta Btw: I love @Delta Thanks for serving Pittsburgh!"
+    },
+    {
+      "tweet_id": 582321,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "13:34:42",
+      "text": "@257270 Our pleasure. #UchooseUs ✈ 💕 ✈ #WeChooseU *TMA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387f1"
+  },
+  "conversation_number": 3942,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 497814,
+      "author_id": "30473",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "18:35:17",
+      "text": "Hey @delta! Any chance you’re going to hold connecting flights to make up for the super delay of flight DAL2628?!?"
+    },
+    {
+      "tweet_id": 497813,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "18:44:25",
+      "text": "@30473 I'm sorry for the delay. Unfortunately, we are unable to hold flights. Please let me know if I can assist you with a connection. *ALS"
+    },
+    {
+      "tweet_id": 497810,
+      "author_id": "30473",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "18:47:35",
+      "text": "@Delta We need to connect to DL1277 which boards at 350 for MSY. We are still on the runway at LGA."
+    },
+    {
+      "tweet_id": 497809,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "18:56:56",
+      "text": "@30473 You're welcome. *ALS"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387f2"
+  },
+  "conversation_number": 4623,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 592857,
+      "author_id": "260330",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-11-25",
+      "created_time": "16:30:37",
+      "text": "@Delta qué pasó con mi vuelo? Reservé desde Agosto mis asientos y ahora resulta que me los cambiaron. Pésima atención! 😡 en sus líneas telefónicas no contestan."
+    },
+    {
+      "tweet_id": 592856,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-11-25",
+      "created_time": "17:28:52",
+      "text": "@260330 Hi. We don't have a Spanish speaker available at this time. May I converse in English? *AMR"
+    },
+    {
+      "tweet_id": 592855,
+      "author_id": "260330",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-11-26",
+      "created_time": "15:53:14",
+      "text": "@Delta Don’t worry. My wife already fix the problem with somebody from your team yesterday. I thought that maybe you had someone who could converse in spanish. That why I started in spanish"
+    },
+    {
+      "tweet_id": 592854,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-11-26",
+      "created_time": "16:24:24",
+      "text": "@260330 Great! I'm glad you were assisted accordingly. *AJY"
+    },
+    {
+      "tweet_id": 592853,
+      "author_id": "260330",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "17:33:49",
+      "text": "@Delta Hello! I need again some help. I will be traveling again to NYC but my flight was bought with Aeroméxico and is operated by Delta. I have my Aeroméxico confirmation code, but I don’t know the delta code. What can I do? Delta site doesn’t recognize Aeroméxico code."
+    },
+    {
+      "tweet_id": 592852,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "17:35:22",
+      "text": "@260330 Hello. Do you have the ticket number? It may be 15 digits long, and I'll try to look from there. Please DM that. Thanks.  *TMS https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387f3"
+  },
+  "conversation_number": 4126,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 516821,
+      "author_id": "239135",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "01:04:16",
+      "text": "@AmericanAir you must not want me as a member of your sky miles.  I had a death in the family and you ppl cancelled the only flight to ct!!  I swear to god you better make this right or i am switching to @Delta"
+    },
+    {
+      "tweet_id": 516820,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "01:06:32",
+      "text": "@239135 We're here and ready for you, Josh. You have our deepest condolences for the loss of your family member.  *ABN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387f4"
+  },
+  "conversation_number": 3650,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 458096,
+      "author_id": "223760",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "00:55:29",
+      "text": "Is @Delta no longer running non-stop flights from ATL to SXM?"
+    },
+    {
+      "tweet_id": 458095,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "00:57:26",
+      "text": "@223760 Thank you for asking. Let me check on that for you. Please follow via DM for assistance. *TDL https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387f5"
+  },
+  "conversation_number": 4196,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 526288,
+      "author_id": "241776",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "06:29:56",
+      "text": "When you’ve got status with @delta and book with your KTN then you go to check in and somehow it disappears. 😡 and the desk agents don’t know how to add it on. 😡 this needs to be fixed for the return. Ugh. \n\n#HellNo"
+    },
+    {
+      "tweet_id": 526287,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "06:33:43",
+      "text": "@241776 We're sorry for the inconvenience, Julienne. Please provide your confirmation # and KTN via the link. *ABN https://t.co/6iDGBJRMTU"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387f6"
+  },
+  "conversation_number": 4377,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 557284,
+      "author_id": "250131",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "21:02:54",
+      "text": "@Delta my good friend @220734 left his laptop on a flight can you assist him"
+    },
+    {
+      "tweet_id": 557282,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "21:26:46",
+      "text": "@250131 I am sorry to hear that. To process his claim for delayed, damaged or lost baggage or missing items, complete this form. Here is the link:  https://t.co/XwO5qwnsan *AFM"
+    },
+    {
+      "tweet_id": 557283,
+      "author_id": "250131",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "21:27:10",
+      "text": "@Delta Can you tell him that @220734 it’s not me"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387f7"
+  },
+  "conversation_number": 4495,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 570556,
+      "author_id": "253963",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "03:31:42",
+      "text": "@Delta I keep trying to change a flight on your website and getting error message. Than there is an hour long wait time to speak to someone on the phone!"
+    },
+    {
+      "tweet_id": 570555,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "03:32:19",
+      "text": "@253963 I’d be delighted to assist. Please follow and DM your confirmation number.  *AFC https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387f8"
+  },
+  "conversation_number": 3762,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 471672,
+      "author_id": "227319",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "08:42:05",
+      "text": "@Delta check in @21706 was amazingly smooth this morning. Hope the flight goes the same way 👍🏽"
+    },
+    {
+      "tweet_id": 471671,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "08:49:45",
+      "text": "@227319 Thank you for traveling with us, Kev. Enjoy your trip! *ABN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387f9"
+  },
+  "conversation_number": 4229,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 534664,
+      "author_id": "243850",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "11:57:29",
+      "text": "@Delta unacceptable the stunt the pulled. Comeplete trash. I won't ever be. Back"
+    },
+    {
+      "tweet_id": 534663,
+      "author_id": "243850",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "11:59:11",
+      "text": "@Delta @Delta thanks for cutting my time short with my mother who I won't get to see for years after I got to boot camp. This how you treat Vets? I'll make that notes"
+    },
+    {
+      "tweet_id": 534661,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "12:07:21",
+      "text": "@243850 I am very sorry that you feel this way. We are here to help if you need us. Please let us know what we can do. *TBW"
+    },
+    {
+      "tweet_id": 534662,
+      "author_id": "243850",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "12:10:10",
+      "text": "@Delta I had 4 different employs send me to 4 different lines. Not causing to get my ticket. Now I missed my figh and wait 9 hours here. How can group of people be so dumb. I'm"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387fa"
+  },
+  "conversation_number": 3751,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 470334,
+      "author_id": "226977",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "00:45:54",
+      "text": "@Delta, normally I love flying with you, but I’m extremely upset at how your team acted tonight. A team-member unapologetically snatched my bag out of my hands after I was told to wait to see if there was space overhead. There was. I said no and I feel violated. I’m not alone."
+    },
+    {
+      "tweet_id": 470333,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "07:31:42",
+      "text": "@226977 ...appropriate desk for review.  *HSD 2/2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387fb"
+  },
+  "conversation_number": 4485,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 569704,
+      "author_id": "253716",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "03:06:32",
+      "text": "@Delta seriously? a two hour hold time?? what happened to your call back service? #igotalifetolive"
+    },
+    {
+      "tweet_id": 569701,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "03:12:15",
+      "text": "@253716 I do apologize for the long hold times we're experiencing tonight. How may we help you via this channel? *TAC"
+    },
+    {
+      "tweet_id": 569702,
+      "author_id": "116808",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "03:14:57",
+      "text": "@Delta @253716 Hey you got any weed man"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387fc"
+  },
+  "conversation_number": 4431,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 563569,
+      "author_id": "251967",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "23:26:07",
+      "text": "@Delta would I be able to book a flight for a passenger using my points? I know Southwest let's me but wasn't sure about Delta."
+    },
+    {
+      "tweet_id": 563568,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "23:30:07",
+      "text": "@251967 You sure can book travel for a separate passenger using your miles. 😃 *TJN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387fd"
+  },
+  "conversation_number": 3827,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 482544,
+      "author_id": "229766",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "11:42:51",
+      "text": "Interesting conversation piece. When does an individuals need interfere with mass public safety? When isles are blocked @Delta https://t.co/qw1Ekv5AoA"
+    },
+    {
+      "tweet_id": 482543,
+      "author_id": "229766",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "14:10:48",
+      "text": "@Delta Flight attendants have handled this masterfully @Delta Well done."
+    },
+    {
+      "tweet_id": 482542,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "14:26:29",
+      "text": "@229766 Hello Michelle! On behalf of the flight attendants, thank you for the kudos. We look forward to serving you on your next Delta flight.  *HKS"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387fe"
+  },
+  "conversation_number": 3711,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 464491,
+      "author_id": "225449",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "03:18:05",
+      "text": "On my @Delta flight from hong Kong to seattle, and some asshole stood up to announce, \"If anyone here doesn't like Donald Trump, they can get off the plane\". Oh boy. Should be an interesting flight. #TheResistance"
+    },
+    {
+      "tweet_id": 464490,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "03:44:19",
+      "text": "@225449 2/2 https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f35387ff"
+  },
+  "conversation_number": 3874,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 490827,
+      "author_id": "231924",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "16:48:14",
+      "text": "@Delta Feeling like I've wasted my time trying to book flights on https://t.co/sDe8152w9d...page continues to crash while searching for flights. Not a great system for booking if a customer cannot even get to the flight choices"
+    },
+    {
+      "tweet_id": 490826,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "16:52:38",
+      "text": "@231924 Hi John, I don't have any errors reported on our website.  Glitches can happen though; I'm sorry it's not responding correctly. I will be happy to call you and complete a reservation; if I can be of assistance, just send me your phone number.  *TJP https://t.co/6iDGBJRMTU"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538800"
+  },
+  "conversation_number": 3797,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 479010,
+      "author_id": "228828",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "12:44:50",
+      "text": "Thank you @Delta for not letting people at @122828 about the gate/terminal switch to LaGuardia. 😡 My aunt Charline and Uncle Louis missed their flight!!!! Bad business!"
+    },
+    {
+      "tweet_id": 479007,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "12:51:24",
+      "text": "@228828 Please express our sincere apology to your aunt and uncle for the inconvenience.  *ALS"
+    },
+    {
+      "tweet_id": 479008,
+      "author_id": "228828",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "12:55:42",
+      "text": "@Delta That doesn’t fix the issue at hand."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538801"
+  },
+  "conversation_number": 4170,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 521845,
+      "author_id": "240496",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "03:37:34",
+      "text": "@Delta I got a notification saying I was followed by you. What is Delta?"
+    },
+    {
+      "tweet_id": 521844,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "03:40:15",
+      "text": "@240496 I am sorry to hear that, Nicki. We can deselect the following.  *AFM"
+    },
+    {
+      "tweet_id": 521843,
+      "author_id": "240496",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "03:42:06",
+      "text": "@Delta It’s totally fine. I’m just wondering what it is."
+    },
+    {
+      "tweet_id": 521841,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "03:45:26",
+      "text": "@240496 Let us know if you need any assistance. *AMV"
+    },
+    {
+      "tweet_id": 521842,
+      "author_id": "240496",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "03:46:22",
+      "text": "@Delta That’s not helpful...."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538802"
+  },
+  "conversation_number": 3801,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 479022,
+      "author_id": "228832",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "12:17:05",
+      "text": "I need my in-flight coffee @Delta, but I can't do black. Please add nondairy #vegan creamers. ☕️"
+    },
+    {
+      "tweet_id": 479021,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "12:28:50",
+      "text": "@228832 Hi Fernando, your feedback is very important to us, as we want all of our passengers to have the best possible experience. Thank you. *TJM"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538803"
+  },
+  "conversation_number": 4613,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 591665,
+      "author_id": "260004",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "17:07:05",
+      "text": "@Delta Never fly delta! I can't change my flight due to an emergency, even though I bought insurance..."
+    },
+    {
+      "tweet_id": 591664,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "17:08:31",
+      "text": "@260004 Sorry to hear about your disappointment, Kristina. I'll be happy to check on this for you. Can you please share the confirmation number through the following link:  *AOS https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538804"
+  },
+  "conversation_number": 4208,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 530149,
+      "author_id": "242771",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "09:37:53",
+      "text": "1st time flying @AmericanAir instead of @delta will also be the last.\n\nSo many issues and I haven’t even boarder yet.\n\nI’ll never leave you again @delta - unless it’s a private charter with @24074 😜 ✈️ https://t.co/ov4M7btlLS"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538805"
+  },
+  "conversation_number": 4401,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 560066,
+      "author_id": "250982",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "21:48:31",
+      "text": "So excited to make my first flight ever with @Delta tomorrow! On my way to @250983 for a week!"
+    },
+    {
+      "tweet_id": 560065,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "22:07:43",
+      "text": "@250982 We are just as excited as you are to have you onboard with us Tanita! 😃✈ *TJN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538806"
+  },
+  "conversation_number": 3974,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 502753,
+      "author_id": "235129",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "20:03:33",
+      "text": "It's too hot on this plane. How do I roll the windows down? @Delta"
+    },
+    {
+      "tweet_id": 502752,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "20:06:59",
+      "text": "@235129 We most certainly do not advise you roll down any windows, Tristan. That would be a bad idea. The air conditioning should kick in after takeoff and climb. Hopefully, we can make you comfortable in short order. *ASK"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538807"
+  },
+  "conversation_number": 3787,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 478216,
+      "author_id": "228620",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "11:53:28",
+      "text": "Appreciate the compassion, professionalism and customer service focus of the @Delta flight crew who had to deal with a medical emergency on my red eye flight from San Diego to Atlanta.  Nicely done. #DutyRespectIntegrity #lifeofastateforester"
+    },
+    {
+      "tweet_id": 478215,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "12:19:41",
+      "text": "@228620 Thank you for the compliment. Our crews are the most highly trained and professional in the industry.  *TCC"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538808"
+  },
+  "conversation_number": 4064,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 511875,
+      "author_id": "237696",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "22:42:24",
+      "text": "Thank you @Delta and NYC team for the Porsche ride. Great start for vacation!"
+    },
+    {
+      "tweet_id": 511874,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "23:07:06",
+      "text": "@237696 You bet, Jason! Glad we could help! *HCA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538809"
+  },
+  "conversation_number": 3988,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 504391,
+      "author_id": "235609",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "20:02:02",
+      "text": "@Delta Glad you have that call back feature - when you said my wait would be more than 2 hours last Sunday, you were right! I’m up to 121 hours and 19 min. My arm would be exhausted if I was still on hold. 😳"
+    },
+    {
+      "tweet_id": 504390,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "20:44:42",
+      "text": "@235609 Hey Mike, sorry to hear about the \"Call Back\" discrepancy. We have recently had a flux of calls. Please let us know if assistance is currently needed via DM. *AJY https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353880a"
+  },
+  "conversation_number": 4386,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 558659,
+      "author_id": "250538",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "21:14:43",
+      "text": "@Delta My flight has been canceled, can you explain my why"
+    },
+    {
+      "tweet_id": 558658,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "21:38:06",
+      "text": "@250538 Hi there. Please share your confirmation code or ticket number via this link to better assist. *TKR https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353880b"
+  },
+  "conversation_number": 4363,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 554195,
+      "author_id": "238327",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "19:58:45",
+      "text": "@Delta i am booking a multi airline trip one of them being you. how do i go about booking an extra seat for my self for your portion of the trip"
+    },
+    {
+      "tweet_id": 554194,
+      "author_id": "238327",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "19:59:58",
+      "text": "@Delta trip is delta from rdm to slc then to btm, then btm to slc with rest of trip home on alsaka"
+    },
+    {
+      "tweet_id": 554193,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "20:20:50",
+      "text": "@238327 Hello there. Please DM your confirmation number so I may take a look. *TAC https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353880c"
+  },
+  "conversation_number": 4689,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 600934,
+      "author_id": "262545",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "21:04:59",
+      "text": "@Delta you should forewarn consumers before flight that they will have no screens in front of them. Especially when its. 3+hr flight. This sucks!"
+    },
+    {
+      "tweet_id": 600933,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "21:07:52",
+      "text": "@262545 I'm sorry to hear you are disappointed. On most flights without screens, you can stream the Delta Studio for free on your electronic device.  *TSL"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353880d"
+  },
+  "conversation_number": 3667,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 459169,
+      "author_id": "167488",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "01:06:53",
+      "text": "@Delta Can I take my theraflu in a checked luggage? Currently fighting a cold and desperately need this lol"
+    },
+    {
+      "tweet_id": 459168,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "01:10:30",
+      "text": "@167488 Hi, Lajoyce! You sure can have that item in your checked luggage! I'm sorry to hear that you're feeling under the weather, I do wish you a speedy recovery.  *TJN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353880e"
+  },
+  "conversation_number": 4438,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 564584,
+      "author_id": "252258",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "00:16:08",
+      "text": "@Delta Kudos to Cassandra IND-DTW-MDW #bestflightattendantEVAH #grateful"
+    },
+    {
+      "tweet_id": 564583,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "00:17:01",
+      "text": "@252258 It makes our day to hear things like this! We truly do have the best in the biz. Thanks for sharing. 😃 *TCH"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353880f"
+  },
+  "conversation_number": 3617,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 453529,
+      "author_id": "222615",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-11-30",
+      "created_time": "22:36:21",
+      "text": "@Delta need to be contacted immediately regarding my luggage. I have to sit in baggage claim for over two hours to wait for my luggage that @Delta failed to load on my flight. https://t.co/AyuWdMLYU0"
+    },
+    {
+      "tweet_id": 453527,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-11-30",
+      "created_time": "22:52:36",
+      "text": "@222615 I appreciate your patience. I apologize for your bag not arriving with you. Our records show that it will arrive on Delta Connection WestJet 5418, estimated to arrive Detroit at 6:47 p.m. You may file a delayed bag claim at our Baggage Service Office.  *AJL"
+    },
+    {
+      "tweet_id": 453528,
+      "author_id": "222615",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-11-30",
+      "created_time": "23:10:26",
+      "text": "@Delta How valuable are sky miles if the flights don’t meet both mine and Delta’s customer service standards?"
+    },
+    {
+      "tweet_id": 453530,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-11-30",
+      "created_time": "23:13:29",
+      "text": "@222615 I regret your frustration with this delay. Please file see the Baggage Service Office for the claim form. *TMT"
+    },
+    {
+      "tweet_id": 453531,
+      "author_id": "222615",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "00:20:37",
+      "text": "@Delta 2 of 2 https://t.co/fyRqUvrAiy"
+    },
+    {
+      "tweet_id": 453533,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "00:39:20",
+      "text": "@222615 My info shows the bag has been delivered on DL 5418 which arrived at 7:05 pm.  *TMT"
+    },
+    {
+      "tweet_id": 453535,
+      "author_id": "222615",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "00:44:59",
+      "text": "@Delta It arrived at 7:28pm"
+    },
+    {
+      "tweet_id": 453536,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "00:47:45",
+      "text": "@222615 I wanted to update you that your bag was on DL 5418 instead of what the other agent advised. So sorry for the confusion. *TMT"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538810"
+  },
+  "conversation_number": 4047,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 510636,
+      "author_id": "237329",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "22:27:18",
+      "text": "After my @116450 flight to New Delhi I was reminded why I love @Delta more. Better service and better food."
+    },
+    {
+      "tweet_id": 510634,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "22:50:33",
+      "text": "@237329 Hi Anne. Thank you for the kind words! We ❤ you too! *TKR"
+    },
+    {
+      "tweet_id": 510635,
+      "author_id": "237329",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "22:52:02",
+      "text": "@Delta You also have cookies. I like cookies."
+    },
+    {
+      "tweet_id": 510637,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "23:07:03",
+      "text": "@237329 Yum yum cookies! *AFC"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538811"
+  },
+  "conversation_number": 3977,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 502764,
+      "author_id": "235133",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "20:16:04",
+      "text": "Rarely travel on @AmericanAir &amp; now remember why. Strike 1) No blanket/pillow in coach (@Delta ✔️) Strike 2) No individual screens (@delta ✔️) Strike 3) No charging jacks (@Delta✔️).  SD-MIA is gonna be a long flight! 😭✈️"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538812"
+  },
+  "conversation_number": 4007,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 506144,
+      "author_id": "236113",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "20:46:02",
+      "text": "@Delta"
+    },
+    {
+      "tweet_id": 506143,
+      "author_id": "236113",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "20:48:06",
+      "text": "@Delta Received terrible service on Delta phone support and they wouldn't put me in the Survey queue!  Just put me on hold."
+    },
+    {
+      "tweet_id": 506142,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "21:14:03",
+      "text": "@236113 I realize this is a disappointment, and I sincerely apologize. Please use the following link if you would like to share details.  https://t.co/fPLXqv8KGq *AFC https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538813"
+  },
+  "conversation_number": 4647,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 597374,
+      "author_id": "261639",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "19:56:13",
+      "text": "Waiting 90 minutes to get a boarding pass for our infant. No reason provided. No ETA. Flight at 1:30 to NL. @Delta"
+    },
+    {
+      "tweet_id": 597372,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "19:57:30",
+      "text": "@261639 I regret that happened Erik. I wish your experience was better than what’s described. *TJN"
+    },
+    {
+      "tweet_id": 597373,
+      "author_id": "261639",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "20:04:45",
+      "text": "@Delta Still no boarding pass.  We may miss our flight. First time flying with her. Gate agent apologizes but no change in status."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538814"
+  },
+  "conversation_number": 3951,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 497849,
+      "author_id": "233827",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "18:28:54",
+      "text": "Pretty disappointed w @Delta right now. Nice people on the phone, but no way to help me to swap a rewards ticket with another fare I paid for so I can earn MQMs. C’mon guys. This is an easy - and fair - request."
+    },
+    {
+      "tweet_id": 497848,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "18:37:51",
+      "text": "@233827 Hello, Matthew! How may I help you? Please DM your confirmation# and I will try to help. *TCC"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538815"
+  },
+  "conversation_number": 4120,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 516796,
+      "author_id": "239128",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-11-27",
+      "created_time": "18:33:33",
+      "text": "Our precious Sugar Bee was awarded a good behavior pin from the flight crew on the NYC shuttle! Thanks for the good help and smooth flight, @Delta. https://t.co/pKtAvkO2LH"
+    },
+    {
+      "tweet_id": 516795,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "01:20:45",
+      "text": "@239128 That is too cute, thank you for sharing. Have a great weekend. 😊 *TBT"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538816"
+  },
+  "conversation_number": 3668,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 459172,
+      "author_id": "224060",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "01:04:27",
+      "text": "Hope the pilot on my @Delta flight 1322 keeps us updated on the #SEAvHOU match since I will be flying home (SEA) during it. #BadTiming"
+    },
+    {
+      "tweet_id": 459170,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "01:06:30",
+      "text": "@224060 Oh no, reach out. When you need us just tweet us, we'll see what we can do. 😊 *TBT"
+    },
+    {
+      "tweet_id": 459171,
+      "author_id": "224060",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "05:37:55",
+      "text": "@Delta Thanks! The gogo in flight worked and we landed early so I can catch the end. Terrific as usual!"
+    },
+    {
+      "tweet_id": 459173,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "05:40:02",
+      "text": "@224060 Awesome, Jennifer! *ABN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538817"
+  },
+  "conversation_number": 4400,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 560064,
+      "author_id": "250981",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "21:54:25",
+      "text": "@Delta what dowa this error code mean? I am buying an upgrade on the app. https://t.co/NyaaIf0CtA"
+    },
+    {
+      "tweet_id": 560063,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "22:12:13",
+      "text": "@250981 Joel, I am sorry for this inconvenience. We have our Online Customer Support Desk to help with navigational assistance. Please reach out to them by calling this number: 1-888-750-3284. *AFM"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538818"
+  },
+  "conversation_number": 3998,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 504437,
+      "author_id": "235627",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "20:45:29",
+      "text": "Worst experience with @AmericanAir. @Delta...I will never take a chance on another airline again. #deltawins"
+    },
+    {
+      "tweet_id": 504438,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "21:11:56",
+      "text": "@235627 We look forward to having you on board.  *AFC"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538819"
+  },
+  "conversation_number": 4274,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 539241,
+      "author_id": "245039",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "14:25:51",
+      "text": "Can someone at @JetBlue explain why I am charged $75 when I change my flight reservation?  Or @Delta explain the $200 fee? What does it cost you when I go on line and change the itinerary?"
+    },
+    {
+      "tweet_id": 539239,
+      "author_id": "JetBlue",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "14:28:15",
+      "text": "@245039 @Delta Great question! When we hold a seat that’s purchased and someone decides to change or cancel, there’s a much smaller likelihood that we’ll sell that ticket again, so that seat may fly empty and we’d lose the revenue. Change/cancel fees protect us against that."
+    },
+    {
+      "tweet_id": 539240,
+      "author_id": "245039",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "15:43:08",
+      "text": "@JetBlue @Delta Well on MLK day I switched from a highly desired itinerary to an undesired itinerary. The new flight is practically empty. So I guess you’ll end up ahead on that one."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353881a"
+  },
+  "conversation_number": 4039,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 510615,
+      "author_id": "237320",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "22:35:07",
+      "text": "Had an issue with a rule that I wanted explained.  Gate agents couldn’t. I was promised a Red Coat in the Sky Club.  Never showed up. I expect better from @Delta.  Reminded me of the old Northwest days"
+    },
+    {
+      "tweet_id": 510614,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "22:56:03",
+      "text": "@237320 Oh no, I'm very sorry Rich. Is there something I can try and answer for you? *TBT"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353881b"
+  },
+  "conversation_number": 3944,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 497823,
+      "author_id": "233818",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "18:34:57",
+      "text": "@Delta Created Twitter account to thank David Held JFK-T2 for exceptional service! Literally ran to help us make flight. Missed flight but he stuck with us to help get other flight/hotel/snacks all during his lunch. Cracked his phone as he ran to help. A+ Employee #AboveAndBeyond https://t.co/XlBH8JZksR"
+    },
+    {
+      "tweet_id": 497822,
+      "author_id": "233818",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "18:43:44",
+      "text": "@Delta Again I want to emphasize how great David was. We were not happy to miss flight by literally 30 seconds after 20 hrs of travel. He turned a very frustrating situation into as good of an experience as it could have been. Even enjoyable. So kind/helpful/selfless. Thanks, David!"
+    },
+    {
+      "tweet_id": 497820,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "18:53:36",
+      "text": "@233818 Hello, Dallin! Looks like he earned his wings today! Please DM your confirmation# and I will forward this to his Supervisor.   *TCC"
+    },
+    {
+      "tweet_id": 497821,
+      "author_id": "233818",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "21:21:08",
+      "text": "@Delta Only got twitter to thank David so don't know how to DM. Original flight was Delta 439 leaving on Nov 29 at 7:30 pm from JFK to SLC at gate C66. Rare to find such stellar service. We hope he is recognized. Felt so bad he cracked phone running to help. Very positive/proactive guy."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353881c"
+  },
+  "conversation_number": 4156,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 519963,
+      "author_id": "240006",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "02:39:29",
+      "text": "#AlyRaisman is on my @Delta flight to Tampa. We’re flying with U.S. royalty, yo. 👸 #olympicgoldmedalist 🥇#delta ✈️"
+    },
+    {
+      "tweet_id": 519962,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "02:41:21",
+      "text": "@240006 Awesome Sue. Have a great flight! *TKR"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353881d"
+  },
+  "conversation_number": 4448,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 565463,
+      "author_id": "252520",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "00:40:13",
+      "text": "@Delta not good! 😡😡😡 at FLL from ATL.... https://t.co/ge6LGUplTi"
+    },
+    {
+      "tweet_id": 565462,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "00:45:42",
+      "text": "@252520 ...international travel. *ABN 2/2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353881e"
+  },
+  "conversation_number": 3876,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 490835,
+      "author_id": "231926",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "16:42:00",
+      "text": "@Delta just boarded a plane in FC to find a nasty pillow. Can’t do any better that this? #gross https://t.co/FHatpZEsMG"
+    },
+    {
+      "tweet_id": 490834,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "16:46:35",
+      "text": "@231926 Please accept our sincere apology. You can reach out to the FA for a replacement pillow if you need one.  *ALS"
+    },
+    {
+      "tweet_id": 490833,
+      "author_id": "231926",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "16:48:06",
+      "text": "@Delta A clean pillow should be provided in FC without asking. #payattentiontodetails #badcustomerservice"
+    },
+    {
+      "tweet_id": 490832,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "16:49:19",
+      "text": "@231926 Oh no, Julie. That's not what we want to hear. Have you reach out to any of our In-Flight crew regarding this issue for immediate assistance.  *AOS"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353881f"
+  },
+  "conversation_number": 4090,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 514163,
+      "author_id": "238376",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "23:46:55",
+      "text": "Long week and final leg of trip headed  home ty @Delta the ahh feeling when they call your name for upgrade 🍷 https://t.co/RnZXVmKMxj"
+    },
+    {
+      "tweet_id": 514161,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "00:25:06",
+      "text": "@238376 Happy travels, Rick! *HCA"
+    },
+    {
+      "tweet_id": 514162,
+      "author_id": "238377",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "00:50:21",
+      "text": "@Delta @238376 safe travels pard"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538820"
+  },
+  "conversation_number": 4726,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 603643,
+      "author_id": "183666",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "22:32:22",
+      "text": "Classic take off of @delta 1317 after visiting with my consigliere @211 @213 https://t.co/q2ZjHnFQSg"
+    },
+    {
+      "tweet_id": 603642,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "22:46:08",
+      "text": "@183666 Thank you for flying Delta! *AFC"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538821"
+  },
+  "conversation_number": 4108,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 515498,
+      "author_id": "238751",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "00:47:14",
+      "text": "Hey @Delta, your fancy new overhead bins make it very hard for vertically challenged folks to put up their own bags. Just saying."
+    },
+    {
+      "tweet_id": 515496,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "00:51:11",
+      "text": "@238751 Hey Ashley, I'm very sorry for any inconvenience. If you need any assistance, please reach out to our Flight Crew they will be glad to help.  *TBT"
+    },
+    {
+      "tweet_id": 515497,
+      "author_id": "238751",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "03:41:48",
+      "text": "@Delta Thanks but they don’t actually help you as they don’t want to injure themselves."
+    },
+    {
+      "tweet_id": 515499,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "03:44:19",
+      "text": "@238751 Ashley, that's why they are there. To assist you. *ACJ"
+    },
+    {
+      "tweet_id": 515500,
+      "author_id": "238751",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "04:12:01",
+      "text": "@Delta Uhm, in all my years of flying, flight crew has never offered to help me out my bag in an overhead bin. I appreciate that you’re responding but it’s really not addressing the issue."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538822"
+  },
+  "conversation_number": 3690,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 461703,
+      "author_id": "224687",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "02:11:34",
+      "text": "@Delta how do I figure out if I have a skymiles number already?"
+    },
+    {
+      "tweet_id": 461702,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "02:19:36",
+      "text": "@224687 Hi, Gayane! Thanks for reaching out. If you can please DM us here with the full name as it should appear on the account, I'd be happy to assist you. 😃 *TJN https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538823"
+  },
+  "conversation_number": 4204,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 528390,
+      "author_id": "242341",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "08:44:20",
+      "text": ".@delta please hold the door open in Paris for flight DL35 from CDG to SEA. Passport control is backed up. We're here &amp; want to get home to see these guys! https://t.co/gDYPhZLdYs"
+    },
+    {
+      "tweet_id": 528389,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "08:47:33",
+      "text": "@242341 If you need any assistance, please follow/DM your confirmation number. *AMV https://t.co/6iDGBJRMTU"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538824"
+  },
+  "conversation_number": 3900,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 492532,
+      "author_id": "232406",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "17:02:07",
+      "text": "@Delta Hi, one of your staff working the gate for for the noon flight from ATL-SEA, Earl, working the gate was simply awesome.  He helped me out tremendously with some seat switching, needed due to a medical condition. Thank you! He is a gem."
+    },
+    {
+      "tweet_id": 492531,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "17:10:10",
+      "text": "@232406 Hi. So very overjoyed to learn of your interaction with Earl, and that he'd made your seating switch and overall experience all the better. We'll relay this information along to his leadership team at once. Thank you! *ADB"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538825"
+  },
+  "conversation_number": 4625,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 594120,
+      "author_id": "260726",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "18:20:33",
+      "text": "@Delta can you help me with a same day travel change. DM sent thanks!"
+    },
+    {
+      "tweet_id": 594118,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "18:24:47",
+      "text": "@260726 Certainly. Let me take a look.  *AMR"
+    },
+    {
+      "tweet_id": 594119,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "18:36:51",
+      "text": "@260726 The 159pm flight show availability. However, but the SDC has to be done at the airport. You are already Standby listed for that flight.  *AMR"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538826"
+  },
+  "conversation_number": 4176,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 522772,
+      "author_id": "240758",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "04:04:32",
+      "text": "Why hasn't @Delta added the call back feature to their services? This 2 hour wait on hold is ridiculous."
+    },
+    {
+      "tweet_id": 522771,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "04:08:23",
+      "text": "@240758 Hi Kerrie. I am so sorry for the long hold time. Please share your confirmation code or ticket number to better assist.  *TKR"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538827"
+  },
+  "conversation_number": 3871,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 488956,
+      "author_id": "139911",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "15:42:22",
+      "text": "@Delta why is this old plane still even in your fleet? Tray table is broken. Guy behind me has to POUND on his screen to get it to work. And this is JFK - LAX 😡😡 https://t.co/mkQTCtrZ3y"
+    },
+    {
+      "tweet_id": 488955,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "16:03:42",
+      "text": "@139911 My apologies for the experience Jess! Have you spoken with the crew about the tray table and if so what did they say? *HKM"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538828"
+  },
+  "conversation_number": 4542,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 579530,
+      "author_id": "256482",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "10:50:29",
+      "text": "When @delta charges you $100 for an overweight bag because you packed a case of 🍾 but your entire fare for your BOS 🛫HNL trip is now only $200 &amp; they hooked you up with a window seat https://t.co/MEa7WFxDKE"
+    },
+    {
+      "tweet_id": 579528,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "11:03:18",
+      "text": "@256482 That sounds like a really good deal! *TBW"
+    },
+    {
+      "tweet_id": 579529,
+      "author_id": "256482",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "18:38:37",
+      "text": "@Delta it is! thank you! 🌈🛫"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538829"
+  },
+  "conversation_number": 3986,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 504387,
+      "author_id": "235607",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "20:05:10",
+      "text": "Nothing better than traveling with the best airline in the sky- amazing first class experience with an amazing crew- the best in the sky @Delta @824 #deltaproud https://t.co/NeKN7CCUYj"
+    },
+    {
+      "tweet_id": 504386,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "20:46:39",
+      "text": "@235607 Hi Peter. We truly appreciate your kind words. Thank you for flying with us today. Have a great flight! 😊 *TKR"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353882a"
+  },
+  "conversation_number": 3769,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 476592,
+      "author_id": "228262",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "10:30:31",
+      "text": "@Delta Excellent service all round by your team, great flight back into Edinburgh https://t.co/w4FqBsQZz3"
+    },
+    {
+      "tweet_id": 476591,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "11:18:29",
+      "text": "@228262 We're excited to hear you're enjoying the #DeltaDifference, Stephen! Happy travels.✈ *ASK"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353882b"
+  },
+  "conversation_number": 3747,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 470305,
+      "author_id": "226974",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "02:01:00",
+      "text": "@Delta Are you not doing Sky Priority boarding lanes at ATL gates anymore?"
+    },
+    {
+      "tweet_id": 470303,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "07:47:12",
+      "text": "@226974 Hi Justin. Yes, we are still boarding Sky Priority in our Atlanta airport. My apologies for the delayed response.  *HSD"
+    },
+    {
+      "tweet_id": 470304,
+      "author_id": "226974",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "13:25:31",
+      "text": "@Delta That wasn’t my question - I was asking about the *lane*. Seems to be gone."
+    },
+    {
+      "tweet_id": 470306,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "13:26:47",
+      "text": "@226974 That will have to be address by airport personnel.  *ALS"
+    },
+    {
+      "tweet_id": 470308,
+      "author_id": "226974",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "13:28:07",
+      "text": "@Delta Seriously? That’s your answer? You’re usually better than this."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353882c"
+  },
+  "conversation_number": 3777,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 477204,
+      "author_id": "228406",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "10:50:38",
+      "text": "@Delta I fly to Montreal for work almost every month and my return flight has never left on time. I mean it, never. Is mainline going to take over this route when the EXJ contract ends?"
+    },
+    {
+      "tweet_id": 477202,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "11:32:58",
+      "text": "@228406 I do apologize for the poor flight performance out of Montreal. It is not likely Delta Mainline will take that routing over, as that routing is likely better suited to regional jets. We will do what we can, however, to improve the on-time performance. *ASK"
+    },
+    {
+      "tweet_id": 477203,
+      "author_id": "228406",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "13:47:25",
+      "text": "@Delta Many thanks for the reply to my vent. Hopefully Endeavor handles this leg!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353882d"
+  },
+  "conversation_number": 4550,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 582316,
+      "author_id": "257269",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "13:12:35",
+      "text": "Thanks to @Delta employee for getting me off the standby list and assigning me a seat!"
+    },
+    {
+      "tweet_id": 582315,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "13:17:17",
+      "text": "@257269 On behalf of *TMA, you are most welcome. Just an FYI, with a Basic Economy ticket, when you see yourself on \"Stand-by\", it refers only to the seat assignment. You are confirmed for the flight. It just means you're waiting for a seat assignment. *TAC"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353882e"
+  },
+  "conversation_number": 3786,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 478214,
+      "author_id": "228619",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "11:54:58",
+      "text": "@Delta going to miss my connection from DET to PHX  to plane malfunction in RIC. is there a direct flight out??"
+    },
+    {
+      "tweet_id": 478212,
+      "author_id": "228619",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "12:14:40",
+      "text": "@Delta Due to**"
+    },
+    {
+      "tweet_id": 478210,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "12:21:02",
+      "text": "@228619 I'm very sorry to hear about your disrupted travel, Gargee. Let's see what our options are. Would you mind sharing your confirmation number? *ASK"
+    },
+    {
+      "tweet_id": 478211,
+      "author_id": "228619",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "12:23:02",
+      "text": "@Delta DMing now, thanks!"
+    },
+    {
+      "tweet_id": 478213,
+      "author_id": "228619",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "12:28:55",
+      "text": "@Delta Gate attendant was efficient &amp; helpful too, thanks @Delta !"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353882f"
+  },
+  "conversation_number": 3927,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 496207,
+      "author_id": "232871",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "18:18:09",
+      "text": "50 mins on the runway @124202 awaited takeoff. After a 2 hour flight delay. What’s going on @delta????"
+    },
+    {
+      "tweet_id": 496206,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "18:19:24",
+      "text": "@232871 @124202 Air Traffic Control delays today Stephanie. I'm sorry for your inconvenience.  *HNW"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538830"
+  },
+  "conversation_number": 3656,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 458118,
+      "author_id": "223766",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "00:45:49",
+      "text": "@Delta Can you please show the #WASvsDAL game on your flight 74 to Amsterdam. Thank you."
+    },
+    {
+      "tweet_id": 458117,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "00:48:59",
+      "text": "@223766 I wish I could. That will be a great game. Have a great week. *TBT"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538831"
+  },
+  "conversation_number": 4111,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 515512,
+      "author_id": "238755",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "00:31:59",
+      "text": "The ATL airport has it going on tonight.  Well done ATL &amp; @Delta.  Reminds me of a friend of mine...@238756 's moves https://t.co/vHUDChmyxF"
+    },
+    {
+      "tweet_id": 515511,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "00:39:44",
+      "text": "@238755 Hey Matt. Very nice! Thanks for sharing! Enjoy your flight! 😊 *TKR"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538832"
+  },
+  "conversation_number": 4656,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 597403,
+      "author_id": "261640",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "19:47:35",
+      "text": "After @Delta rebooks me, I get put on the @VirginAtlantic flight. I thought it’s delayed, but I should still get to Bangalore in time for my events and that layover should be enough time. Then I get to the airport and the flight attendants tell me we will BOARD at 6:45pm instead."
+    },
+    {
+      "tweet_id": 597402,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "19:51:41",
+      "text": "@261640 Hi Justin. I am so sorry for the delayed flights. Please share your confirmation code or ticket number via this link to learn more. *TKR https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538833"
+  },
+  "conversation_number": 4337,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 550070,
+      "author_id": "186483",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "18:35:58",
+      "text": "Sent @Delta email at 8pm Friday about a big issue. They call me Saturday morning at 8am and reslove it in 5mins.  Email @248116 week ago about little issue. They forgot about and said it would be 30 days. Who did it better?!  @delta Rocks!!!!"
+    },
+    {
+      "tweet_id": 550069,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "18:48:33",
+      "text": "@186483 Hi. Thanks for the compliment, but we'd rather have heard that we got back to you Friday night. If you ever need anything, #TweetUsIfYouNeedUs. ✈ #HappyHolidays 🎄 *TMA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538834"
+  },
+  "conversation_number": 4150,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 519933,
+      "author_id": "239999",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "02:55:43",
+      "text": "@Delta Very unpleasant flight from PDX to AMS on Nov3017. Husbands video player was broken and it was the hottest flight.  No air.  Miserable!"
+    },
+    {
+      "tweet_id": 519930,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "02:58:10",
+      "text": "@239999 Hi there. I am so sorry for any inconvenience this may have caused. We hope you allow us another opportunity to better serve you again in the future. *TKR"
+    },
+    {
+      "tweet_id": 519931,
+      "author_id": "239999",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "03:12:07",
+      "text": "@Delta I guess we are looking for more than a “scripted tweet”"
+    },
+    {
+      "tweet_id": 519934,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "03:18:38",
+      "text": "@239999 Hi Caryn, can you DM your confirmation # to the link provided? I will be glad to look into this.  *TBT https://t.co/6iDGBJRMTU"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538835"
+  },
+  "conversation_number": 4440,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 564588,
+      "author_id": "163336",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "23:55:56",
+      "text": "#WheelsUp #Atlanta &gt; #LosAngeles @Delta A330 ✈️💺🎸😴 @ Hartsfield-Jackson Atlanta International… https://t.co/kaYXEa2bz6"
+    },
+    {
+      "tweet_id": 564587,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "00:07:55",
+      "text": "@163336 Happy travels! *HCA"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538836"
+  },
+  "conversation_number": 3840,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 484049,
+      "author_id": "230156",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "14:48:07",
+      "text": "@delta"
+    },
+    {
+      "tweet_id": 484048,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "14:48:40",
+      "text": "@230156 Good morning, Patricia! Is there something we can help you with? *TJE"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538837"
+  },
+  "conversation_number": 3764,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 474588,
+      "author_id": "227947",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "09:52:43",
+      "text": "I need my in-flight coffee @Delta, but I can't do black. Please add nondairy #vegan creamers. ☕️"
+    },
+    {
+      "tweet_id": 474586,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "10:01:19",
+      "text": "@227947 When time calls for caffeine (or decaf) you can request freshly brewed Starbucks® coffee — complimentary on every flight. *AMV"
+    },
+    {
+      "tweet_id": 474587,
+      "author_id": "227947",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "10:17:27",
+      "text": "@Delta Do you have non-dairy options that aren't just straight black cofffee?"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538838"
+  },
+  "conversation_number": 3680,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 460305,
+      "author_id": "224372",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "01:37:11",
+      "text": "I need my in-flight coffee @Delta, but I can't do black. Please add nondairy #vegan creamers. ☕️"
+    },
+    {
+      "tweet_id": 460304,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "01:38:50",
+      "text": "@224372 Thank you so much for reaching out to us and making your voice heard. We appreciate your feedback. *AMC"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538839"
+  },
+  "conversation_number": 3712,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 464494,
+      "author_id": "225450",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "03:37:56",
+      "text": "Been over 20 minutes waiting for my bags at Boston Logan @Delta, tsk tsk"
+    },
+    {
+      "tweet_id": 464493,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "03:44:07",
+      "text": "@225450 I'm sorry the baggage is delayed this evening Andy. I've attached the form to the Bags on Time program, just in case. https://t.co/9qP7jNm0t7  *TLT"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353883a"
+  },
+  "conversation_number": 4435,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 564578,
+      "author_id": "252256",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "00:23:21",
+      "text": "@Delta going above and beyond, as usual, you're spoiling me. A good start for our @25963 annual meeting #termisam17 looking forward to seeing a lot of friends doing the most awesome science #mskresearch #orthoresearch https://t.co/dO2M8M1OC1"
+    },
+    {
+      "tweet_id": 564577,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "00:24:12",
+      "text": "@252256 Anything for you Riccardo! 😉 *TJN"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353883b"
+  },
+  "conversation_number": 4472,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 567243,
+      "author_id": "253043",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "01:21:16",
+      "text": "@Delta how come I got upped to Comfort (ty!) and traveling with my wife and she didn’t? Already spent hour on hold earlier and can’t wait 2 hrs now"
+    },
+    {
+      "tweet_id": 567242,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "01:28:46",
+      "text": "@253043 I’d be delighted to assist. Please follow and DM your confirmation number.  *AFC https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353883c"
+  },
+  "conversation_number": 3666,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 459167,
+      "author_id": "224059",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "01:11:25",
+      "text": "@Delta how can I redeem my companion certificate or make sure that I am eligible for one?"
+    },
+    {
+      "tweet_id": 459166,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "01:13:22",
+      "text": "@224059 Caleb, please DM your SkyMiles number so I can look into this for you. *TSB"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353883d"
+  },
+  "conversation_number": 3908,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 494327,
+      "author_id": "232870",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-11-29",
+      "created_time": "23:06:15",
+      "text": "@Delta Can you check to see if there are any upgrade for points seats available on my RDU-SLC flight next week? I can DM my conf number if u need."
+    },
+    {
+      "tweet_id": 494324,
+      "author_id": "232870",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "17:22:48",
+      "text": "@Delta I didn’t ever hear back from anyone on this question..."
+    },
+    {
+      "tweet_id": 494322,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "17:56:24",
+      "text": "@232870 Thanks for waiting. Currently, there's no availability but you are on the waitlist for the upgrade. *HKM"
+    },
+    {
+      "tweet_id": 494323,
+      "author_id": "232870",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "17:56:58",
+      "text": "@Delta Ok, thanks."
+    },
+    {
+      "tweet_id": 494325,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "17:59:31",
+      "text": "@232870 On behalf of *HKM, you're welcome.  *HKS"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353883e"
+  },
+  "conversation_number": 3925,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 496202,
+      "author_id": "233363",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "18:19:30",
+      "text": "@Delta First Class Meal – Tandoori Chicken with Quinoa Salad https://t.co/taWDGHdCMs https://t.co/jFEGWkZqps"
+    },
+    {
+      "tweet_id": 496200,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "18:20:17",
+      "text": "@233363 That looks delicious! Thanks for sharing. 😊 *HNW"
+    },
+    {
+      "tweet_id": 496201,
+      "author_id": "233363",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "18:37:37",
+      "text": "@Delta It was! :D"
+    },
+    {
+      "tweet_id": 496203,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "18:40:36",
+      "text": "@233363 Glad you enjoyed! Look forward to seeing you on your next trip! Thanks so much for your loyalty. *HKM"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353883f"
+  },
+  "conversation_number": 4634,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 595248,
+      "author_id": "261047",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "18:37:18",
+      "text": "@Delta I ❤️ U but...On a flight to NYC from MIA (DL1287). Smells like a dozen used diapers filled w/ 💩 INSIDE of this airplane. The flight attendants say there’s nothing they can do. I just hope I don’t smell like 💩 once we land. Help!"
+    },
+    {
+      "tweet_id": 595247,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "18:40:19",
+      "text": "@261047 Oh no! How unpleasant. I'm very sorry for this. Please share your flight number so we can have our cleaners check that out when you land. *TJW"
+    },
+    {
+      "tweet_id": 595246,
+      "author_id": "261047",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "18:45:23",
+      "text": "@Delta DL1287. The pilot has instructed us to deplane as they’re not sure where the smell is coming from. Any chance to put me on another flight?"
+    },
+    {
+      "tweet_id": 595245,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "18:48:14",
+      "text": "@261047 Yes, I'd be happy to help rebook you. Please DM your confirm #.  *TJW https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538840"
+  },
+  "conversation_number": 3972,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 502740,
+      "author_id": "235127",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "19:25:09",
+      "text": "Hey @126402 did @Delta just release this year's elevate program and increase prices dramatically over last year making you buy a bundle??? Thought 5k MQMs were approx $650 last year"
+    },
+    {
+      "tweet_id": 502739,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "20:12:22",
+      "text": "@235127 Hello David! Please click on the following link for information on the Elevate Your Status progra  https://t.co/S0rpJHs2RO.  *HKS"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538841"
+  },
+  "conversation_number": 4272,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 539231,
+      "author_id": "202942",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "14:42:59",
+      "text": "Thank you for the treat this morning, @Delta! @169923 is a guest on my plane! https://t.co/dOM3SXwFcb"
+    },
+    {
+      "tweet_id": 539230,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "14:49:14",
+      "text": "@202942 Awesome picture, Joe! Thank you for sharing and enjoy your flight.  *HYC"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538842"
+  },
+  "conversation_number": 4362,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 554192,
+      "author_id": "249310",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "20:02:23",
+      "text": "@Delta seriously? Two maintenance delays in one day? I always want to be safe but I'm tired, Delta. So ready to be home."
+    },
+    {
+      "tweet_id": 554190,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "20:21:39",
+      "text": "@249310 Douglas, delays are very inconvenient, but never intentional. We sincerely apologize. *ACJ"
+    },
+    {
+      "tweet_id": 554191,
+      "author_id": "248485",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "20:27:14",
+      "text": "@Delta @249310 Yeah but you don’t “really” care!\nYou cancelled my girlfriends flight you ground staff are hideous dismissive and rude. But your all sweet and light online!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538843"
+  },
+  "conversation_number": 3829,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 482551,
+      "author_id": "229768",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "14:00:52",
+      "text": "@Delta will you throw me on this 9:30 JAN to EWR?"
+    },
+    {
+      "tweet_id": 482550,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "14:21:01",
+      "text": "@229768 Hi Cal. I'll check on the flt for you. One moment. *HKM"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538844"
+  },
+  "conversation_number": 4332,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 548734,
+      "author_id": "244761",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "18:04:49",
+      "text": "What? no WiFi on this flight!!! Come on @delta"
+    },
+    {
+      "tweet_id": 548733,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "18:07:47",
+      "text": "@244761 Oh, no. I will be happy to take a look. Please share your conf # via DM for review.  *AJZ https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538845"
+  },
+  "conversation_number": 4321,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 547234,
+      "author_id": "247290",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "17:43:07",
+      "text": "I'm running late please don't leave me @DELTA PLEAASSSSEEEEEEEE!!!!!"
+    },
+    {
+      "tweet_id": 547233,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "17:47:12",
+      "text": "@247290 Hello! Please DM your confirmation# and I will try to help. *TCC"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538846"
+  },
+  "conversation_number": 4216,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 532752,
+      "author_id": "243414",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "10:36:38",
+      "text": "@Delta we r stuck in Budapest. Need to get back to USA ASAP. Please help"
+    },
+    {
+      "tweet_id": 532749,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "11:06:12",
+      "text": "@243414 Oh no! I am very sorry to hear this. Can you please send me your confirmation number? I'd like to see what we can do to help. *TBW"
+    },
+    {
+      "tweet_id": 532750,
+      "author_id": "243414",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "11:26:50",
+      "text": "@Delta The gate operators here offered little information"
+    },
+    {
+      "tweet_id": 532753,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "11:29:18",
+      "text": "@243414 I am showing that your current flight out of Budapest is delayed and is showing to depart after your departure of your flight to Atlanta. This will need to be addressed by KLM, who is your operating carrier from Budapest to Amsterdam. *TBW"
+    },
+    {
+      "tweet_id": 532754,
+      "author_id": "243414",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "11:31:54",
+      "text": "@Delta What are our options to get to our family"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538847"
+  },
+  "conversation_number": 3910,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 494337,
+      "author_id": "232872",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "17:39:47",
+      "text": "@Delta big thanks to the gate agents at GSP who dealt with a lot of frustrated and rude passengers after our diverted flight from AVL today and arranged alternative transport to our final destination quickly. Great example of amazing Delta service. #HappyMedallion"
+    },
+    {
+      "tweet_id": 494336,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "17:42:00",
+      "text": "@232872 Sorry for the diversion today. When we fail to do so, we will work even harder to make it right for you. Thank you for your loyalty.  *ALS"
+    },
+    {
+      "tweet_id": 494334,
+      "author_id": "232872",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "17:43:15",
+      "text": "@Delta No worries. These things happen. Your gate agents at GSP were calm and professional at all time despite some rather rude individuals and quickly made@alternative arrangements. They were a credit to the company."
+    },
+    {
+      "tweet_id": 494333,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "17:49:30",
+      "text": "@232872 Thank you again. I'm sure our management team would agree with you. *ALS"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538848"
+  },
+  "conversation_number": 4627,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 594124,
+      "author_id": "260728",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "17:42:08",
+      "text": "@Delta Melissa, the flight leader on 1430 is so amazing. Truly living the Delta values. Please ensure these kudos get to her and her team."
+    },
+    {
+      "tweet_id": 594123,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "18:12:36",
+      "text": "@260728 Thank you for taking the time compliment our colleague. Have a great afternoon.  *AMR"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538849"
+  },
+  "conversation_number": 4591,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 587576,
+      "author_id": "250982",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "15:30:32",
+      "text": "Made it on my first flight ever thanks to @Delta - where's the champagne?! Connecting and headed to Tampa from ATL next! https://t.co/oMfM9tAwct"
+    },
+    {
+      "tweet_id": 587575,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "15:34:01",
+      "text": "@250982 That's awesome Tanita! We're glad to have you on board with us today! Wheels up! 😉 *AJY"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353884a"
+  },
+  "conversation_number": 4334,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 550060,
+      "author_id": "248113",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "18:53:12",
+      "text": "@Delta Hey guys, I'm seeing two charges on my account pending for one ticket."
+    },
+    {
+      "tweet_id": 550059,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-02",
+      "created_time": "18:56:24",
+      "text": "@248113 Hi Snyder! If you did not receive 2 confirmations then the additional pending charge will fall off. If you DM the confirmation I can double check that the reservation did not ticket twice.  *TJE https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353884b"
+  },
+  "conversation_number": 4736,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 603666,
+      "author_id": "263450",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "22:22:42",
+      "text": "Wow such bad service at @Delta !  People missed their flights because your crew decided not to allow them to board at a couple of minutes before the flight took off."
+    },
+    {
+      "tweet_id": 603665,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "22:32:49",
+      "text": "@263450 Hi Mell. I am so sorry for any inconvenience we may have caused. Please share your confirmation code or ticket number via this link to better assist. *TKR https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353884c"
+  },
+  "conversation_number": 4052,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 510655,
+      "author_id": "207450",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "20:21:18",
+      "text": "If we can’t be platinum on earth, At least we can be platinum in the sky #highonflight #marrymeDelta @Delta https://t.co/Pj4PCtJ78l"
+    },
+    {
+      "tweet_id": 510653,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "22:33:06",
+      "text": "@207450 It was a pleasure to have you onboard with us today!  *HEC"
+    },
+    {
+      "tweet_id": 510654,
+      "author_id": "207450",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-02",
+      "created_time": "02:18:25",
+      "text": "@Delta You are the wind beneath our wings. 💖"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353884d"
+  },
+  "conversation_number": 4653,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 597394,
+      "author_id": "261643",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "19:49:49",
+      "text": "@Delta we are looking to book a large family, if we go basic economy is it reasonable to assume at least the children will be seated with an adult in our party not by themselves?"
+    },
+    {
+      "tweet_id": 597392,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "19:53:05",
+      "text": "@261643 However, the seat selection is not guaranteed. We accommodate the seating for children 5 years and under.  *AFC"
+    },
+    {
+      "tweet_id": 597393,
+      "author_id": "261643",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "19:58:30",
+      "text": "@Delta Great but say an 8 year old, you would let them travel alone?"
+    },
+    {
+      "tweet_id": 597395,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "20:03:01",
+      "text": "@261643 The gate agents are aware of the children and families traveling together. They do their best to assign seats together. It is possible that an 8-year-old would be seated solo. You might consider booking the main cabin fare that allows advanced seats.  *TSL"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353884e"
+  },
+  "conversation_number": 4642,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 596364,
+      "author_id": "261334",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-03",
+      "created_time": "19:12:09",
+      "text": "@Delta Will you refund an infant in arms ticket (the tax and airport fees) since my infant will no longer be coming on our international trip?"
+    },
+    {
+      "tweet_id": 596363,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-03",
+      "created_time": "19:15:05",
+      "text": "@261334 Hi Megan, please DM your infant ticket number and I would be happy to take a look for you. *TJW https://t.co/6iDGBJAc2m"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f353884f"
+  },
+  "conversation_number": 3968,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 502718,
+      "author_id": "235114",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "19:38:50",
+      "text": "Thanks @Delta for not charging me to reschedule a missed flight. 😌✈️"
+    },
+    {
+      "tweet_id": 502717,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "20:27:46",
+      "text": "@235114 I'm glad we were able to assist Patricia. Thank you for flying Delta, and have a great weekend. *ALS"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68d7e235c8d40404f3538850"
+  },
+  "conversation_number": 3866,
+  "customer": "Delta",
+  "tweets": [
+    {
+      "tweet_id": 488945,
+      "author_id": "231435",
+      "role": "Customer",
+      "inbound": true,
+      "created_at": "2024-12-01",
+      "created_time": "16:11:54",
+      "text": "Counting down the days @Delta to \nmy “Tender TN Christmas” ✈️🎄😌\n#TheHolidays #TisTheSeason #NY https://t.co/mmaIPRoHF3"
+    },
+    {
+      "tweet_id": 488944,
+      "author_id": "Delta",
+      "role": "Service Provider",
+      "inbound": false,
+      "created_at": "2024-12-01",
+      "created_time": "16:13:13",
+      "text": "@231435 We can't wait to welcome you on board! Happy Holidays! 🎅 *TJE"
+    }
+  ]
+}]

@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_212647_9b4c44a8",
+    "created_at": "2025-09-25T21:26:47.549690+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa5a",
+      "conversation_number": 22,
+      "tweets": [
+        {
+          "tweet_id": 3227,
+          "author_id": "116457",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:17:19 +0000 2017",
+          "text": "@Delta why would pilot land 55 mins early no gate avail? DL 088 on ground LAX we are stuck in seats plz let us use the lav \ud83d\ude33\ud83d\udebd#legscrossed"
+        },
+        {
+          "tweet_id": 3225,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:18:16 +0000 2017",
+          "text": "@116457 We appreciate your constructive feedback and are taking it under serious advisement.  *AFC"
+        },
+        {
+          "tweet_id": 3226,
+          "author_id": "116457",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:27:05 +0000 2017",
+          "text": "@Delta Thx for reply. Understand the concern for safety. Otherwise great flight appreciate getting us home safe during very busy holiday weekend."
+        },
+        {
+          "tweet_id": 3228,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:29:56 +0000 2017",
+          "text": "@116457 On behalf of AFC, again, we appreciate your feedback. *ACJ"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa5b",
+      "conversation_number": 23,
+      "tweets": [
+        {
+          "tweet_id": 3236,
+          "author_id": "116460",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:58:15 +0000 2017",
+          "text": "@Delta I checked in for my flight that\u2019s  tomorrow and I was moved seats. I was originally on the aisle. I\u2019m hoping you can help?"
+        },
+        {
+          "tweet_id": 3234,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:11:48 +0000 2017",
+          "text": "@116460 Hello, Maggi. I'll be glad to check for you. Please DM your confirmation number for privacy. *TAC https://t.co/6iDGBJAc2m"
+        },
+        {
+          "tweet_id": 3235,
+          "author_id": "116460",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:16:33 +0000 2017",
+          "text": "@Delta Just did"
+        }
+      ]
+    }
+  ]
+}

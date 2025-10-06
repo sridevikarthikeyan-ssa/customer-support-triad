@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_224810_f8d81bbd",
+    "created_at": "2025-09-25T22:48:10.433654+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa8b",
+      "conversation_number": 71,
+      "tweets": [
+        {
+          "tweet_id": 12065,
+          "author_id": "118381",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 01:13:35 +0000 2017",
+          "text": "@Delta your airline and ticketing process is a nightmare. Why would you assign me two seats separate from one another, when I ordered both tickets at the same time, on the same account, in the same order? How does that make sense? You're a greedy unethical company."
+        },
+        {
+          "tweet_id": 12064,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 01:22:27 +0000 2017",
+          "text": "@118381 We sincerely apologize for your disappointment. We always strive to create a positive customer experience.  *AJC"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa92",
+      "conversation_number": 78,
+      "tweets": [
+        {
+          "tweet_id": 13610,
+          "author_id": "118843",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 02:00:30 +0000 2017",
+          "text": "@Delta got hung up on after 49 min wait for a supervisor. What gives?"
+        },
+        {
+          "tweet_id": 13609,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 02:01:23 +0000 2017",
+          "text": "@118843 Sorry to hear that happened, Asher. Let us know if we can assist via Twitter.  *ALA"
+        },
+        {
+          "tweet_id": 13608,
+          "author_id": "118843",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 02:07:33 +0000 2017",
+          "text": "@Delta Yes. I need some help/exception for a reservation. Can I pm you the info?"
+        },
+        {
+          "tweet_id": 13607,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 02:10:58 +0000 2017",
+          "text": "@118843 Yes, please share your confirmation here.  *ALA https://t.co/6iDGBJAc2m"
+        }
+      ]
+    }
+  ]
+}

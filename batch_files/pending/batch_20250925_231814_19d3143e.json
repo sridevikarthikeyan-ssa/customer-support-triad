@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_231814_19d3143e",
+    "created_at": "2025-09-25T23:18:14.131629+00:00",
+    "document_count": 5,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfb0a",
+      "conversation_number": 198,
+      "tweets": [
+        {
+          "tweet_id": 46675,
+          "author_id": "126376",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 15:52:14 +0000 2017",
+          "text": "@Delta just keeps adding more and more value to the airline, huh."
+        },
+        {
+          "tweet_id": 46674,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 16:57:23 +0000 2017",
+          "text": "@126376 Hi, Steve, is there something that I can assist you with today? *TRR"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfb0c",
+      "conversation_number": 200,
+      "tweets": [
+        {
+          "tweet_id": 46684,
+          "author_id": "126379",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Mon Sep 25 02:48:00 +0000 2017",
+          "text": "I'm on vacation with my wife in India. My luggage has been misplaced since 9/21. It is 9/2t and @Delta and @49581 are unresponsive."
+        },
+        {
+          "tweet_id": 46683,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Mon Sep 25 03:16:23 +0000 2017",
+          "text": "@126379 Esmerlin, do you have a file reference number? If so please follow/DM here with that number and I will see if I can get an update. *ACJ"
+        },
+        {
+          "tweet_id": 46682,
+          "author_id": "126378",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Mon Sep 25 12:47:33 +0000 2017",
+          "text": "@Delta @126379 Thank you"
+        },
+        {
+          "tweet_id": 46680,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Mon Sep 25 13:15:13 +0000 2017",
+          "text": "@126378 I will reach out to them on your behalf. Please save any receipt of the items you have purchased during the absence of your luggage.  *AMR"
+        },
+        {
+          "tweet_id": 46679,
+          "author_id": "126378",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 15:04:44 +0000 2017",
+          "text": "@Delta I contact Delta and sent them our receipts and I described the rest what we spent without it but they don't answer back.Can you contact them"
+        },
+        {
+          "tweet_id": 46678,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 16:53:13 +0000 2017",
+          "text": "@126378 Hi Irene. Please DM your case number. I will reach out to Baggage office.  *AMR"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfb0e",
+      "conversation_number": 202,
+      "tweets": [
+        {
+          "tweet_id": 46689,
+          "author_id": "126381",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 15:26:54 +0000 2017",
+          "text": "Hate it when a @Delta upgrade is actually a downgrade exit window to comfort + middle"
+        },
+        {
+          "tweet_id": 46687,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 16:53:04 +0000 2017",
+          "text": "@126381 Hi, Sam. I am sorry you are not happy with the upgrade.  *TJF"
+        },
+        {
+          "tweet_id": 46688,
+          "author_id": "126381",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 16:55:30 +0000 2017",
+          "text": "@Delta If going from window/aisle seat to middle you should give traveller option to accept/reject before automatic change"
+        },
+        {
+          "tweet_id": 46690,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 17:10:15 +0000 2017",
+          "text": "@126381 This is a request we frequently receive. IT is working on a fix. If this happens in the future, pls reach to have it resolved.  *TJW"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfb0f",
+      "conversation_number": 203,
+      "tweets": [
+        {
+          "tweet_id": 46692,
+          "author_id": "126382",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 15:03:49 +0000 2017",
+          "text": "@Delta \nLove your new cargo tracking!!!!"
+        },
+        {
+          "tweet_id": 46691,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 16:50:54 +0000 2017",
+          "text": "@126382 We certainly thank you for the feedback and have a wonderful day.  *HRO"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfb11",
+      "conversation_number": 205,
+      "tweets": [
+        {
+          "tweet_id": 46696,
+          "author_id": "126384",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Wed Nov 01 15:18:14 +0000 2017",
+          "text": "Well done @Delta as I missed a flight by getting lost in work \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f rebooking be on the next flight home. \ud83d\udc4d\ud83c\udffbthank you much"
+        },
+        {
+          "tweet_id": 46695,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Wed Nov 01 16:49:31 +0000 2017",
+          "text": "@126384 You're most welcome, Mike! Thanks for choosing us for your travels! :-) *AAB"
+        }
+      ]
+    }
+  ]
+}

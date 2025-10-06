@@ -1,5 +1,7 @@
 # Ignore data directory for classified results and other data files
 data/
+# Batch processing files and checkpoints
+batch_files/
 # Python cache and compiled files
 __pycache__/
 *.pyc

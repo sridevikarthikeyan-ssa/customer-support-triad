@@ -7,6 +7,10 @@
 ### 1. Overview
 This document provides a step-by-step implementation and testing plan for building the customer support query classification module. Each major component is broken down into actionable sub-tasks, with corresponding testing strategies to ensure correctness and reliability.
 
+The implementation consists of two main components:
+1. **Real-time API Server**: For processing individual conversation classification requests
+2. **MongoDB Batch Processor**: For processing large volumes of conversations asynchronously
+
 ---
 
 ### 2. Implementation Plan (Sub-Tasks)
@@ -70,10 +74,53 @@ This document provides a step-by-step implementation and testing plan for buildi
 - [ ] Measure and log response times.
 - [ ] Optimize bottlenecks if needed.
 
-#### 2.11. Documentation & Deployment
-- [ ] Update `README.md` with setup, usage, and API details.
-- [ ] Document configuration in `docs/` and `config/`.
-- [ ] Prepare deployment scripts if needed.
+#### 2.11. Async LLM Wrapper
+- [ ] Implement `async_llm_wrapper.py` for concurrent LLM calls
+- [ ] Use `aiohttp.ClientSession` for asynchronous HTTP requests
+- [ ] Add identical function signatures to the synchronous wrapper with async/await pattern
+- [ ] Implement timeout and retry control for batch processing workflows
+- [ ] Add comprehensive error handling for LLM connection issues
+- [ ] Write unit tests for async LLM operations (mocked)
+
+#### 2.12. MongoDB Client
+- [ ] Implement `mongo_client.py` for database interaction
+- [ ] Configure MongoDB connection URL: `mongodb+srv://cia_db_user:qG5hStEqWkvAHrVJ@capstone-project.yyfpvqh.mongodb.net/?retryWrites=true&w=majority&appName=CAPSTONE-PROJECT`
+- [ ] Set up collection names: `conversation_set` (source) and `sentimental_analysis` (results)
+- [ ] Use Motor (async MongoDB driver) with connection pooling
+- [ ] Implement cursor-based pagination using ObjectId
+- [ ] Configure optimal connection pool parameters (max 20, min 5)
+- [ ] Add error handling with exponential backoff retries
+- [ ] Write unit tests for MongoDB operations (mocked)
+
+#### 2.13. Batch Processor
+- [ ] Implement `batch_processor.py` as the main entry point
+- [ ] Configure MongoDB collections: `conversation_set` (source) and `sentimental_analysis` (results)
+- [ ] Create professional CLI interface using argparse
+- [ ] Implement local file cache for crash recovery
+- [ ] Add batch processing modes (one-time, continuous, scheduled)
+- [ ] Add monitoring and progress reporting
+- [ ] Write unit tests for batch processing workflow
+
+#### 2.14. Batch File Manager
+- [ ] Implement local file cache management for batches
+- [ ] Create file structure with pending/retry/completed files
+- [ ] Add checkpoint system for crash recovery
+- [ ] Implement single retry queue with state-aware processing
+- [ ] Write unit tests for file operations and recovery scenarios
+
+#### 2.15. Concurrent Processor
+- [ ] Implement semaphore-controlled concurrent processing
+- [ ] Configure processing modes (conservative, balanced, aggressive)
+- [ ] Add immediate write strategy with shared connection pool
+- [ ] Implement state-aware retry logic for different failure types
+- [ ] Write unit tests for concurrent operations
+
+#### 2.16. Documentation & Deployment
+- [ ] Update `README.md` with setup, usage, and API details
+- [ ] Add batch processor documentation and command-line examples
+- [ ] Document configuration options for both API and batch processor
+- [ ] Create environment variable reference documentation
+- [ ] Prepare deployment scripts for both components
 
 ---
 
@@ -83,22 +130,48 @@ This document provides a step-by-step implementation and testing plan for buildi
 - Write unit tests for each module in `tests/`.
 - Use pytest or unittest for test automation.
 - Cover input validation, error handling, and core logic.
+- Test both synchronous (API) and asynchronous (batch) components.
 
 #### 3.2. Integration Testing
 - Test interactions between API, aggregator, prompt builder, LLM wrapper, and classifier.
-- Use mocked LLM responses for reliability.
+- Test batch processor interactions with MongoDB client, async LLM wrapper, and file system.
+- Use mocked LLM responses and MongoDB operations for reliability.
+- Validate concurrent processing behavior with controlled testing environments.
 
 #### 3.3. End-to-End Testing
-- Simulate full workflow from client request to API response.
-- Validate correct classification and error handling.
+- **API Server**: Simulate full workflow from client request to API response.
+- **Batch Processor**: Validate end-to-end batch processing from source collection to results.
+- Test crash recovery scenarios for batch processor by simulating interruptions.
+- Verify proper error handling and recovery across all components.
 
 #### 3.4. Performance Testing
-- Use tools like `pytest-benchmark` or custom scripts to simulate concurrent requests.
-- Ensure system meets performance requirements.
+- **API Server**: Use tools like `pytest-benchmark` to simulate concurrent API requests.
+- **Batch Processor**: Benchmark different concurrency configurations (3, 5, 10 parallel tasks).
+- Measure and compare processing rates with different configurations.
+- Validate memory usage and connection pool behavior under load.
+- Test performance with varying batch sizes (50, 100, 200) to optimize throughput.
 
-#### 3.5. Manual Testing
-- Test edge cases and unusual input formats.
-- Validate logging and error traces for debugging.
+#### 3.5. MongoDB Integration Testing
+- Test connection with the specific MongoDB Atlas URL: `mongodb+srv://cia_db_user:qG5hStEqWkvAHrVJ@capstone-project.yyfpvqh.mongodb.net/?retryWrites=true&w=majority&appName=CAPSTONE-PROJECT`
+- Verify correct source collection (`conversation_set`) and results collection (`sentimental_analysis`) usage
+- Test connection pooling with different connection parameters
+- Validate ObjectId-based pagination and cursor behavior
+- Test retry mechanisms for MongoDB operations with simulated failures
+- Verify proper database indexing and query performance
+- Test crash recovery using local file cache and ObjectId checkpoints
+
+#### 3.6. Async Processing Testing
+- Test semaphore-controlled concurrency with different limits.
+- Validate state-aware processing of different failure types.
+- Measure throughput with varying concurrency settings.
+- Test concurrent LLM calls with controlled response times.
+- Verify proper error isolation between parallel tasks.
+
+#### 3.7. Manual Testing
+- Test edge cases and unusual input formats for both API and batch processor.
+- Validate monitoring and progress reporting in different environments.
+- Test CLI interface with various command-line arguments and configurations.
+- Verify logging and error traces for debugging both components.
 
 ---
 

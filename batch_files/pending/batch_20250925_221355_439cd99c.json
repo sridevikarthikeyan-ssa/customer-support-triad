@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_221355_439cd99c",
+    "created_at": "2025-09-25T22:13:55.228531+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa6f",
+      "conversation_number": 43,
+      "tweets": [
+        {
+          "tweet_id": 4991,
+          "author_id": "116883",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 22:57:50 +0000 2017",
+          "text": "@Delta Your contact website isn\u2019t working. It kept telling me to enter my street address, even though it was there! How can I contact you?"
+        },
+        {
+          "tweet_id": 4990,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Tue Oct 31 23:24:41 +0000 2017",
+          "text": "@116883 My apologies, Wendy. You may call Reservations at one of the worldwide locations listed here: https://t.co/kqomiX8FCI *AAB"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa74",
+      "conversation_number": 48,
+      "tweets": [
+        {
+          "tweet_id": 7000,
+          "author_id": "117210",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Tue Oct 31 23:29:15 +0000 2017",
+          "text": "@Delta I\u2019m looking to get some information regarding Delta to help me with a presentation on Delta. Is there anyone I can contact?"
+        },
+        {
+          "tweet_id": 6999,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Tue Oct 31 23:43:36 +0000 2017",
+          "text": "@117210 Hi, Conner, there is a wealth of information on our website. Here is a link  https://t.co/O04YmboCgo. Hope this helps. *TLT"
+        }
+      ]
+    }
+  ]
+}

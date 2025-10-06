@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "batch_id": "batch_20250925_214959_70c199b6",
+    "created_at": "2025-09-25T21:49:59.292300+00:00",
+    "document_count": 2,
+    "status": "pending"
+  },
+  "documents": [
+    {
+      "_id": "68ce563252b33355379dfa61",
+      "conversation_number": 29,
+      "tweets": [
+        {
+          "tweet_id": 3259,
+          "author_id": "116468",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:33:32 +0000 2017",
+          "text": "The flight attendant and pilot on @Delta flight 4985 were nothing short of amazing. Super kind, helpful, and funny. Wish they were my crew every time I fly!"
+        },
+        {
+          "tweet_id": 3258,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:05:48 +0000 2017",
+          "text": "@116468 Hi Kyle, thanks for recognizing our employees. We're proud of our crew too. Every day our team is working to make flying with us better! *TMB"
+        }
+      ]
+    },
+    {
+      "_id": "68ce563252b33355379dfa62",
+      "conversation_number": 30,
+      "tweets": [
+        {
+          "tweet_id": 3263,
+          "author_id": "116469",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sat Nov 25 23:18:43 +0000 2017",
+          "text": "Hey @Delta how are you going to charge me to move to an earlier flight, not move my luggage to my flight and THEN tell me you can\u2019t deliver my luggage b/c I \u2018voluntarily separated\u2019 from it?! I didn\u2019t \u2018voluntarily\u2019 leave my bag. \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f"
+        },
+        {
+          "tweet_id": 3260,
+          "author_id": "Delta",
+          "role": "Service Provider",
+          "inbound": false,
+          "created_at": "Sun Nov 26 00:05:09 +0000 2017",
+          "text": "@116469 Hi Kelli. I truly regret the frustration we've caused you. Please contact our Baggage Service Center at 800-325-8224 and are open from 7:00 AM - 1:00 AM.  *TKR"
+        },
+        {
+          "tweet_id": 3261,
+          "author_id": "116469",
+          "role": "Customer",
+          "inbound": true,
+          "created_at": "Sun Nov 26 00:11:20 +0000 2017",
+          "text": "I\u2019m sure delivering my bag would be a lot less than the $10k+ I\u2019ve spend with your airline each year for the past 10+ years @delta. Just a guess though. \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f"
+        }
+      ]
+    }
+  ]
+}
