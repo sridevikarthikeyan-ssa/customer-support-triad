@@ -3,7 +3,8 @@ from motor.motor_asyncio import AsyncIOMotorClient
 
 async def list_databases_and_collections():
     # Connect to MongoDB
-    mongodb_uri = 'mongodb+srv://cia_db_user:qG5hStEqWkvAHrVJ@capstone-project.yyfpvqh.mongodb.net/?retryWrites=true&w=majority&appName=CAPSTONE-PROJECT'
+    import os
+    mongodb_uri = os.getenv("MONGODB_URI")
     client = AsyncIOMotorClient(mongodb_uri)
     
     # List all databases

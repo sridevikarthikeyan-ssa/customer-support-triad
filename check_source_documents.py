@@ -15,11 +15,12 @@ class MongoJSONEncoder(json.JSONEncoder):
         return super().default(obj)
 
 async def check_source_documents():
-    # Initialize MongoDB client
+    # Initialize MongoDB client using environment variables
+    import os
     mongo_client = MongoClient(
-        db_name="customer_support_triad",
-        source_collection="conversation_set",
-        target_collection="sentimental_analysis"
+        db_name=os.getenv("MONGODB_DB", "customer_support_triad"),
+        source_collection=os.getenv("MONGODB_SOURCE_COLLECTION", "conversation_set"),
+        target_collection=os.getenv("MONGODB_TARGET_COLLECTION", "sentimental_analysis")
     )
     
     try:

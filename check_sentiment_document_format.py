@@ -22,12 +22,15 @@ async def check_document_format():
     
     # Connect to MongoDB
     print("Connecting to MongoDB...")
-    mongodb_uri = 'mongodb+srv://cia_db_user:qG5hStEqWkvAHrVJ@capstone-project.yyfpvqh.mongodb.net/?retryWrites=true&w=majority&appName=CAPSTONE-PROJECT'
+    import os
+    mongodb_uri = os.getenv("MONGODB_URI")
     client = AsyncIOMotorClient(mongodb_uri)
     
     # Connect to the database and collection
-    db = client['customer_support_triad']
-    collection = db['sentimental_analysis']
+    db_name = os.getenv("MONGODB_DB", "customer_support_triad")
+    collection_name = os.getenv("MONGODB_TARGET_COLLECTION", "sentimental_analysis")
+    db = client[db_name]
+    collection = db[collection_name]
     
     # Count documents
     count = await collection.count_documents({})

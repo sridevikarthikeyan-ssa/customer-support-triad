@@ -7,26 +7,30 @@ import random
 
 async def populate_mongodb():
     # Connect to MongoDB
-    mongodb_uri = 'mongodb+srv://cia_db_user:qG5hStEqWkvAHrVJ@capstone-project.yyfpvqh.mongodb.net/?retryWrites=true&w=majority&appName=CAPSTONE-PROJECT'
+    import os
+    mongodb_uri = os.getenv("MONGODB_URI")
     client = AsyncIOMotorClient(mongodb_uri)
     
-    # Use the customer_support_triad database
-    db = client['customer_support_triad']
+    # Use the database from environment variable
+    db_name = os.getenv("MONGODB_DB", "customer_support_triad")
+    db = client[db_name]
     
     # Check if collections exist, create them if not
     collection_names = await db.list_collection_names()
-    if 'conversation_set' not in collection_names:
-        await db.create_collection('conversation_set')
-    if 'sentimental_analysis' not in collection_names:
-        await db.create_collection('sentimental_analysis')
+    source_collection_name = os.getenv("MONGODB_SOURCE_COLLECTION", "conversation_set")
+    target_collection_name = os.getenv("MONGODB_TARGET_COLLECTION", "sentimental_analysis")
+    if source_collection_name not in collection_names:
+        await db.create_collection(source_collection_name)
+    if target_collection_name not in collection_names:
+        await db.create_collection(target_collection_name)
     
     # Create indexes
-    await db.conversation_set.create_index("status")
-    await db.conversation_set.create_index("conversation_number")
-    await db.sentimental_analysis.create_index("source_object_id")
+    await db[source_collection_name].create_index("status")
+    await db[source_collection_name].create_index("conversation_number")
+    await db[target_collection_name].create_index("source_object_id")
     
     # Create sample conversation documents
-    source_collection = db.conversation_set
+    source_collection = db[source_collection_name]
     
     # Check if we already have data
     count = await source_collection.count_documents({})
@@ -100,7 +104,7 @@ async def populate_mongodb():
         }
         
         # Store in target collection
-        result = await db.sentimental_analysis.insert_one(result_doc)
+        result = await db[target_collection_name].insert_one(result_doc)
         result_id = str(result.inserted_id)
         
         # Update the source document
@@ -117,7 +121,7 @@ async def populate_mongodb():
     # Verify final state
     pending_count = await source_collection.count_documents({"status": "pending"})
     processed_count = await source_collection.count_documents({"status": "processed"})
-    target_count = await db.sentimental_analysis.count_documents({})
+    target_count = await db[target_collection_name].count_documents({})
     
     print(f"\nFinal state:")
     print(f"- Pending conversations: {pending_count}")

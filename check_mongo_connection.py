@@ -5,8 +5,8 @@ from motor.motor_asyncio import AsyncIOMotorClient
 
 async def check_mongodb():
     # Connect to MongoDB
-    mongodb_uri = 'mongodb+srv://cia_db_user:qG5hStEqWkvAHrVJ@capstone-project.yyfpvqh.mongodb.net/?retryWrites=true&w=majority&appName=CAPSTONE-PROJECT'
-    
+    import os
+    mongodb_uri = os.getenv("MONGODB_URI")
     print(f"Connecting to MongoDB: {mongodb_uri}")
     client = AsyncIOMotorClient(mongodb_uri)
     
@@ -30,7 +30,8 @@ async def check_mongodb():
         return
     
     # Try to access specific database
-    for db_name in ["customer_support", "customer_support_triad"]:
+    db_names = [os.getenv("MONGODB_DB", "customer_support_triad"), "customer_support"]
+    for db_name in db_names:
         try:
             db = client[db_name]
             collection_names = await db.list_collection_names()

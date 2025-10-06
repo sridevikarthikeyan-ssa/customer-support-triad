@@ -41,7 +41,12 @@ async def ollama_classify_async(messages):
         payload = {
             "model": ollama_model,
             "messages": messages,
-            "options": {"num_predict": 700},
+            "options": {
+                "num_predict": 300,  # Reduced from 700
+                "temperature": 0.1,  # Add temperature for more focused responses
+                "top_p": 0.9,       # Nucleus sampling
+                "repeat_penalty": 1.1  # Minimize repetition
+            },
             "stream": False
         }
         

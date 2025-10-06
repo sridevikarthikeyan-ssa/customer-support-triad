@@ -16,30 +16,6 @@ SENTIMENT_OPTIONS = ["Positive", "Neutral", "Negative"]
 FEW_SHOTS = [
     {
         "messages": [
-            {"sender": "customer", "text": "I want to cancel my subscription."},
-            {"sender": "agent", "text": "I can help you with that."}
-        ],
-        "output": {
-            "categorization": "Request to cancel subscription",
-            "intent": "Cancel Order",
-            "topic": "Account/Billing",
-            "sentiment": "Neutral"
-        }
-    },
-    {
-        "messages": [
-            {"sender": "customer", "text": "My internet is down since morning."},
-            {"sender": "agent", "text": "Let me check your connection status."}
-        ],
-        "output": {
-            "categorization": "Internet connectivity issue",
-            "intent": "Technical Support",
-            "topic": "Technical",
-            "sentiment": "Negative"
-        }
-    },
-    {
-        "messages": [
             {"sender": "customer", "text": "Where is my order?"},
             {"sender": "agent", "text": "Let me check for you."}
         ],
@@ -74,22 +50,19 @@ def build_prompt(conversation_number, aggregated_text):
         if not conversation_number or not aggregated_text:
             return {"error": "Invalid input: conversation_number and aggregated_text are required"}
         SYSTEM_PROMPT = (
-            "You are a highly accurate customer-support query classifier.\n"
-            "Your task is to classify the conversation into a short description, intent, topic, and sentiment.\n"
-            "IMPORTANT:\n"
-            "1. Use the **entire conversation** to determine intent and topic.\n"
-            "2. Determine sentiment **ONLY from the customer's messages**.\n"
-            "   - Positive: satisfaction, happiness, appreciation.\n"
-            "   - Neutral: questions, clarifications, factual statements.\n"
-            "   - Negative: frustration, anger, disappointment, urgency.\n"
-            "3. Completely ignore the agent's tone for sentiment.\n"
-            "4. Return a SINGLE JSON object **exactly** matching this schema:\n"
-            "   - categorization: short descriptive summary of the customer issue.\n"
-            f"   - intent: one of {INTENT_OPTIONS}\n"
-            f"   - topic: one of {TOPIC_OPTIONS}\n"
-            f"   - sentiment: one of {SENTIMENT_OPTIONS}\n"
-            "5. NO extra keys, NO explanations, NO commentary, ONLY JSON.\n"
-            "6. If unsure, make the best judgment based on customer words."
+            'You are a customer-support classifier. Return EXACTLY this JSON structure:\n'
+            '{\n'
+            '  "categorization": "brief text description",\n'
+            '  "intent": "one of the allowed intents",\n'
+            '  "topic": "one of the allowed topics",\n'
+            '  "sentiment": "Positive/Neutral/Negative"\n'
+            '}\n\n'
+            'CRITICAL: Use DOUBLE QUOTES for ALL strings. Example:\n'
+            '{"categorization": "Order delay issue", "intent": "Order Status", "topic": "Shipping", "sentiment": "Negative"}\n\n'
+            'Allowed intents: "Order Status", "Cancel Order", "Return/Refund", "Product Inquiry",\n'
+            '"Technical Support", "Complaint", "Feedback", "Account/Billing", "Shipping", "Other"\n\n'
+            'Allowed topics: "Orders", "Payments", "Shipping/Delivery", "Returns", "Refunds",\n'
+            '"Warranty", "Product Info", "Account", "Technical", "General"'
         )
         messages = [
             {"role": "system", "content": SYSTEM_PROMPT}

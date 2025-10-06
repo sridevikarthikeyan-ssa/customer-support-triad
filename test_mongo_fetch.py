@@ -4,17 +4,30 @@ Test MongoDB connection and document fetching without LLM integration.
 """
 import asyncio
 import json
+import os
 from datetime import datetime
 from mongo_client import MongoClient
 from logger import logger
+from dotenv import load_dotenv
 
 async def test_mongo_fetch():
     """Test MongoDB connection and document fetching."""
+    # Load environment variables from .env
+    load_dotenv()
+    mongodb_uri = os.getenv("MONGODB_URI")
+    db_name = os.getenv("MONGODB_DB")
+    source_collection = os.getenv("MONGODB_SOURCE_COLLECTION")
+    target_collection = os.getenv("MONGODB_TARGET_COLLECTION")
+    print(f"Using MongoDB URI: {mongodb_uri}")
+    print(f"Using DB: {db_name}")
+    print(f"Using Source Collection: {source_collection}")
+    print(f"Using Target Collection: {target_collection}")
     # Initialize MongoDB client
     mongo_client = MongoClient(
-        db_name="customer_support_triad",
-        source_collection="conversation_set",
-        target_collection="sentimental_analysis"
+        mongodb_uri=mongodb_uri,
+        db_name=db_name,
+        source_collection=source_collection,
+        target_collection=target_collection
     )
     
     try:

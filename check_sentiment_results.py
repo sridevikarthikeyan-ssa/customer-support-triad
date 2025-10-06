@@ -3,6 +3,8 @@ check_sentiment_results.py
 Script to check for results in the sentimental_analysis collection.
 """
 import asyncio
+import dotenv
+import os
 from bson import ObjectId
 from mongo_client import MongoClient
 import json
@@ -17,15 +19,18 @@ class MongoJSONEncoder(json.JSONEncoder):
             return obj.isoformat()
         return super().default(obj)
 
+dotenv.load_dotenv(dotenv_path=".env", override=True)
+
 async def check_sentiment_results():
     """Check for classification results in the sentimental_analysis collection."""
     print("Checking sentimental_analysis collection for classification results...")
     
-    # Initialize MongoDB client
+    # Initialize MongoDB client using environment variables
     mongo_client = MongoClient(
-        db_name="customer_support_triad",
-        source_collection="conversation_set",
-        target_collection="sentimental_analysis"
+        mongodb_uri=os.getenv("MONGODB_URI"),
+        db_name=os.getenv("MONGODB_DB", "customer_support_triad"),
+        source_collection=os.getenv("MONGODB_SOURCE_COLLECTION", "conversation_set"),
+        target_collection=os.getenv("MONGODB_TARGET_COLLECTION", "sentimental_analysis")
     )
     
     try:

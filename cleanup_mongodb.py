@@ -3,11 +3,13 @@ from motor.motor_asyncio import AsyncIOMotorClient
 
 async def cleanup_mongodb():
     # Connect to MongoDB
-    mongodb_uri = 'mongodb+srv://cia_db_user:qG5hStEqWkvAHrVJ@capstone-project.yyfpvqh.mongodb.net/?retryWrites=true&w=majority&appName=CAPSTONE-PROJECT'
+    import os
+    mongodb_uri = os.getenv("MONGODB_URI")
     client = AsyncIOMotorClient(mongodb_uri)
     
-    # Use the customer_support_triad database
-    db = client['customer_support_triad']
+    # Use the database from environment variable
+    db_name = os.getenv("MONGODB_DB", "customer_support_triad")
+    db = client[db_name]
     
     print("=== CLEANING UP DATABASE: customer_support_triad ===")
     

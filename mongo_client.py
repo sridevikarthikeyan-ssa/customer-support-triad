@@ -45,10 +45,7 @@ class MongoClient:
             connect_timeout_ms: Connection timeout (ms)
             server_selection_timeout_ms: Server selection timeout (ms)
         """
-        self.mongodb_uri = mongodb_uri or os.getenv(
-            "MONGODB_URI", 
-            "mongodb+srv://cia_db_user:qG5hStEqWkvAHrVJ@capstone-project.yyfpvqh.mongodb.net/?retryWrites=true&w=majority&appName=CAPSTONE-PROJECT"
-        )
+        self.mongodb_uri = mongodb_uri or os.getenv("MONGODB_URI")
         self.db_name = db_name or os.getenv("MONGODB_DB", "customer_support")
         self.source_collection_name = source_collection or os.getenv(
             "MONGODB_SOURCE_COLLECTION", "conversation_set"
@@ -82,14 +79,12 @@ class MongoClient:
             self.db = self.client[self.db_name]
             self.source_collection = self.db[self.source_collection_name]
             self.target_collection = self.db[self.target_collection_name]
-            
+            logger.info(f"[DEBUG] After connect: db={self.db}, source_collection={self.source_collection}, target_collection={self.target_collection}")
             # Test connection by requesting server info
             server_info = await self.client.server_info()
             logger.info(f"Connected to MongoDB version {server_info.get('version', 'unknown')}")
-            
             # Create indexes if they don't exist
             await self._create_indexes()
-            
             logger.info(f"Successfully connected to MongoDB and set up collections")
         except Exception as e:
             logger.error(f"Failed to connect to MongoDB: {e}")
@@ -131,14 +126,12 @@ class MongoClient:
         if self.source_collection is None:
             raise ValueError("Not connected to MongoDB")
         
-        # Build the query filter
+        # Build the query filter: only fetch documents not marked as processed
         query_filter = {"status": {"$ne": "processed"}}
-        
         # Add ObjectId pagination if provided
         if last_object_id:
             from bson.objectid import ObjectId
             query_filter["_id"] = {"$gt": ObjectId(last_object_id)}
-        
         # Fetch documents with strict limit
         cursor = self.source_collection.find(query_filter).limit(batch_size)
         
@@ -235,7 +228,8 @@ class MongoClient:
             "processing_metadata": {
                 "batch_job_id": batch_job_id,
                 "processing_attempts": document.get("processing_attempts", 0) + 1
-            }
+            },
+            "customer": document.get("customer")  # Added new global field, preserves all existing fields
         }
         
         # Insert into target collection
